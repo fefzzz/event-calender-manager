@@ -1,0 +1,20 @@
+region: de-BW
+timezone: Europe/Berlin
+horizon_days: 30
+user_agent: event-calender-manager/1.0 (+https://github.com)
+
+sources:
+  - id: stuttgart-official
+    type: rss
+    url: "https://www.stuttgart.de/service/veranstaltungen?sp%3Aout=rss"
+    city: Stuttgart
+    region: Baden-Württemberg
+    enabled: true
+
+  # Phase 2: HTML-Quelle (kann bei Layout-Änderungen fehlschlagen)
+  - id: visit-bw
+    type: html
+    url: "https://visit-bw.com/en/events"
+    region: Baden-Württemberg
+    enabled: false
+    max_items: 25
