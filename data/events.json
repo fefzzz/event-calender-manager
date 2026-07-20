@@ -1,59 +1,7 @@
 {
-  "updated_at": "2026-07-20T19:08:23.747662Z",
-  "count": 10,
+  "updated_at": "2026-07-20T19:09:40.334413Z",
+  "count": 3,
   "events": [
-    {
-      "id": "eventbrite-stuttgart:5693f0add85e906a",
-      "source": "eventbrite-stuttgart",
-      "title": "AI Tech Conference 2026",
-      "start": "2026-07-23T00:00:00+02:00",
-      "end": "2026-07-23T00:00:00+02:00",
-      "location": "Stuttgart",
-      "url": "https://www.eventbrite.com/e/ai-tech-conference-2026-tickets-1992096171274",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Join us online at AI Tech Conference 2026 for cutting-edge AI talks, cool demos, and networking fun! Get special ISACA discounts.",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:a1fe925f98f59e86",
-      "source": "eventbrite-stuttgart",
-      "title": "ROAST ME if you can #6 - Healthcare Edition",
-      "start": "2026-07-23T00:00:00+02:00",
-      "end": "2026-07-23T00:00:00+02:00",
-      "location": "Löffelstraße 22-24, Stuttgart",
-      "url": "https://www.eventbrite.de/e/roast-me-if-you-can-6-healthcare-edition-tickets-1990389682119",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die feurigste Startup Nacht Stuttgarts! Hier trifft sich die Startup Szene & Du, diskutiert und vernetzt sich. Im Fokus: Healthcare Startups",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:9c7cd30d18994f83",
-      "source": "eventbrite-stuttgart",
-      "title": "FRAUEN NETZWERK STUTTGART",
-      "start": "2026-07-24T00:00:00+02:00",
-      "end": "2026-07-24T00:00:00+02:00",
-      "location": "Johannesstraße 28, Stuttgart",
-      "url": "https://www.eventbrite.de/e/frauen-netzwerk-stuttgart-tickets-1993930841823",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Frauennetzwerk Treff Stuttgart \nCocktail 20:00 - 23:00 im Mauritius Stuttgart West",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:008b5172ab1dc336",
-      "source": "eventbrite-stuttgart",
-      "title": "Lebzeitige Übertragungen von Immobilienvermögen",
-      "start": "2026-07-29T00:00:00+02:00",
-      "end": "2026-07-29T00:00:00+02:00",
-      "location": "Gerokstraße 3, Stuttgart",
-      "url": "https://www.eventbrite.de/e/lebzeitige-ubertragungen-von-immobilienvermogen-tickets-1977504195281",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Steuerlich kann es sinnvoll sein, Immobilien bereits zu Lebzeiten an die nächste Generation zu übertragen.",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
     {
       "id": "stuttgart-official:2c2053cad595ce0c",
       "source": "stuttgart-official",
@@ -65,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Steuerlich kann es sinnvoll sein, Immobilien bereits zu Lebzeiten an die nächste Generation zu übertragen. Dies gilt allerdings nur unter bestimmten Voraussetzungen. ...",
-      "discovered_at": "2026-07-20T19:08:21.724882Z"
+      "discovered_at": "2026-07-20T19:09:40.107177Z"
     },
     {
       "id": "stuttgart-official:6f562a8eb1b60755",
@@ -78,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Thema Künstliche Intelligenz (KI) ist allgegenwertig und begegnet uns in vielen Lebensbereichen. \nWelche Chancen bietet KI, um unsere Lebensqualität zu steigern? ...",
-      "discovered_at": "2026-07-20T19:08:21.724882Z"
+      "discovered_at": "2026-07-20T19:09:40.107177Z"
     },
     {
       "id": "stuttgart-official:d0a270aff82ca5aa",
@@ -91,46 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-07-20T19:08:21.724882Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:f1bead1d52544e9c",
-      "source": "eventbrite-stuttgart",
-      "title": "How to Do Business with the U.S. Department of Energy (DOE)",
-      "start": "2026-08-04T00:00:00+02:00",
-      "end": "2026-08-04T00:00:00+02:00",
-      "location": "Stuttgart",
-      "url": "https://www.eventbrite.com/e/how-to-do-business-with-the-us-department-of-energy-doe-tickets-1991627459344",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "How to Do Business with the U.S. Department of Energy (DOE)",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:716a4e7e41b62da1",
-      "source": "eventbrite-stuttgart",
-      "title": "Female Business Meet up Stuttgart",
-      "start": "2026-08-11T00:00:00+02:00",
-      "end": "2026-08-11T00:00:00+02:00",
-      "location": "Eichstraße 7, Stuttgart",
-      "url": "https://www.eventbrite.de/e/female-business-meet-up-stuttgart-tickets-1992960979940",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Bist du selbständig und willst dich mit gleichgesinnten Frauen aus deiner Umgebung vernetzen?",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:43d47a338581644d",
-      "source": "eventbrite-stuttgart",
-      "title": "NASA OSBP Webinar: Positioning Your Business for Success at NASA",
-      "start": "2026-08-19T00:00:00+02:00",
-      "end": "2026-08-19T00:00:00+02:00",
-      "location": "Stuttgart",
-      "url": "https://www.eventbrite.com/e/nasa-osbp-webinar-positioning-your-business-for-success-at-nasa-tickets-1981796529769",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Positioning Your Business for Success at NASA: Strategy, Structure, and Center-Specific Opportunities",
-      "discovered_at": "2026-07-20T19:08:21.788216Z"
+      "discovered_at": "2026-07-20T19:09:40.107177Z"
     }
   ]
 }
