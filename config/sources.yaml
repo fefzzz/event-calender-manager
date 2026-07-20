@@ -3,6 +3,32 @@ timezone: Europe/Berlin
 horizon_days: 30
 user_agent: event-calender-manager/1.0 (+https://github.com)
 
+keyword_filter:
+  enabled: true
+  keywords:
+    - KI
+    - "Künstliche Intelligenz"
+    - "Artificial Intelligence"
+    - Immobilien
+    - "Real Estate"
+    - Finance
+    - Finanzen
+    - Finanzierung
+    - Finanzplanung
+    - Investment
+    - Investition
+    - Networking
+    - Netzwerk
+    - Business
+    - Unternehmen
+    - Unternehmer
+    - Karriere
+    - Startup
+    - Gründer
+    - Gründung
+    - Fachmesse
+    - Expo
+
 sources:
   - id: stuttgart-official
     type: rss
@@ -10,6 +36,16 @@ sources:
     city: Stuttgart
     region: Baden-Württemberg
     enabled: true
+    apply_keyword_filter: true
+
+  - id: eventbrite-stuttgart
+    type: eventbrite
+    url: "https://www.eventbrite.de/d/germany--stuttgart/events/"
+    city: Stuttgart
+    region: Baden-Württemberg
+    enabled: true
+    max_pages: 5
+    apply_keyword_filter: true
 
   # Phase 2: HTML-Quelle (kann bei Layout-Änderungen fehlschlagen)
   - id: visit-bw
@@ -18,3 +54,9 @@ sources:
     region: Baden-Württemberg
     enabled: false
     max_items: 25
+    apply_keyword_filter: true
+
+  # Phase 3: Meetup Stuttgart (benötigt OAuth API-Key — noch nicht aktiv)
+  # - id: meetup-stuttgart
+  #   type: meetup
+  #   enabled: false

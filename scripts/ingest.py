@@ -122,6 +122,92 @@ def fetch_rss(
     return events
 
 
+def passes_keyword_filter(event: dict[str, Any], keywords: list[str]) -> bool:
+    text = " ".join(filter(None, [event.get("title", ""), event.get("description", "")])).lower()
+    return any(re.search(r"\b" + re.escape(kw.lower()) + r"\b", text) for kw in keywords)
+
+
+def fetch_eventbrite(
+    source: dict[str, Any],
+    config: dict[str, Any],
+    session: requests.Session,
+) -> list[dict[str, Any]]:
+    user_agent = config.get("user_agent", "event-calender-manager/1.0")
+    max_pages = int(source.get("max_pages", 3))
+    base_url = source["url"].rstrip("/")
+    tz_name = config.get("timezone", "Europe/Berlin")
+    tz = ZoneInfo(tz_name)
+    now = datetime.now(timezone.utc)
+    discovered_at = now.isoformat().replace("+00:00", "Z")
+
+    events: list[dict[str, Any]] = []
+
+    for page in range(1, max_pages + 1):
+        url = f"{base_url}/?page={page}" if page > 1 else f"{base_url}/"
+        resp = session.get(url, headers={"User-Agent": user_agent}, timeout=30)
+        resp.raise_for_status()
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+        page_events: list[dict[str, Any]] = []
+
+        for script in soup.find_all("script", type="application/ld+json"):
+            try:
+                data = json.loads(script.string or "")
+            except (json.JSONDecodeError, TypeError):
+                continue
+
+            for item in data.get("itemListElement", []):
+                ev = item.get("item", item)
+                name = (ev.get("name") or "").strip()
+                if not name:
+                    continue
+
+                event_url = ev.get("url") or ""
+                description = (ev.get("description") or "")[:500]
+
+                loc_data = ev.get("location") or {}
+                addr = loc_data.get("address") or {} if isinstance(loc_data, dict) else {}
+                location_str = ", ".join(filter(None, [
+                    addr.get("streetAddress") if isinstance(addr, dict) else None,
+                    addr.get("addressLocality") if isinstance(addr, dict) else None,
+                ])) or source.get("city") or "Stuttgart"
+
+                def _parse_eb_date(raw: str | None) -> str | None:
+                    if not raw:
+                        return None
+                    try:
+                        suffix = "T00:00:00" if "T" not in raw else ""
+                        dt = datetime.fromisoformat(raw + suffix)
+                        if dt.tzinfo is None:
+                            dt = dt.replace(tzinfo=tz)
+                        return dt.isoformat()
+                    except ValueError:
+                        return raw
+
+                start_iso = _parse_eb_date(ev.get("startDate"))
+                end_iso = _parse_eb_date(ev.get("endDate"))
+
+                page_events.append({
+                    "id": make_event_id(source["id"], event_url, start_iso),
+                    "source": source["id"],
+                    "title": name[:200],
+                    "start": start_iso,
+                    "end": end_iso,
+                    "location": location_str,
+                    "url": event_url,
+                    "city": source.get("city"),
+                    "region": source.get("region") or "Baden-Württemberg",
+                    "description": description or None,
+                    "discovered_at": discovered_at,
+                })
+
+        if not page_events:
+            break
+        events.extend(page_events)
+
+    return events
+
+
 def fetch_html(
     source: dict[str, Any],
     config: dict[str, Any],
@@ -203,9 +289,14 @@ def main() -> int:
 
     session = requests.Session()
     all_events: list[dict[str, Any]] = []
+    all_event_ids: set[str] = set()
     errors: list[dict[str, str]] = []
     new_count = 0
     skipped_count = 0
+
+    kf = config.get("keyword_filter", {})
+    kf_enabled = kf.get("enabled", False)
+    kf_keywords: list[str] = kf.get("keywords", [])
 
     for source in config.get("sources", []):
         if not source.get("enabled", True):
@@ -214,6 +305,8 @@ def main() -> int:
         try:
             if source.get("type") == "rss":
                 fetched = fetch_rss(source, config, session)
+            elif source.get("type") == "eventbrite":
+                fetched = fetch_eventbrite(source, config, session)
             elif source.get("type") == "html":
                 fetched = fetch_html(source, config, session)
             else:
@@ -222,6 +315,10 @@ def main() -> int:
         except Exception as exc:  # noqa: BLE001 — collect per-source errors for last-run.json
             errors.append({"source": source_id, "message": str(exc)})
             continue
+
+        apply_kf = source.get("apply_keyword_filter", kf_enabled)
+        if apply_kf and kf_keywords:
+            fetched = [e for e in fetched if passes_keyword_filter(e, kf_keywords)]
 
         for event in fetched:
             event_id = event["id"]
@@ -242,8 +339,9 @@ def main() -> int:
                 except ValueError:
                     pass
 
-            if within_horizon(start_iso, horizon_end, tz):
+            if within_horizon(start_iso, horizon_end, tz) and event_id not in all_event_ids:
                 all_events.append(event)
+                all_event_ids.add(event_id)
 
     all_events.sort(key=lambda e: e.get("start") or "9999")
 
