@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T07:50:25.558571Z",
-  "count": 380,
+  "updated_at": "2026-07-20T18:34:31.397222Z",
+  "count": 382,
   "events": [
     {
       "id": "stuttgart-official:b173181f108c78f3",
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Rauminstallation und Medienstation im Stuttgarter Rathaus.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:10f7585d9f165532",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung präsentiert herausragende Zeugnisse deutsch-französischer Geschichte vom späten Mittelalter bis heute.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:02bc3c57e435291b",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Absolventinnen Louise Ronja Griesinger-Talles, Annette Pfannenschwarz und Yuliia Shaynikova präsentieren Werke ihrer Diplomarbeiten.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:83c491ddd4de8e5c",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Laudes",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:041a08d53c69f6b0",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das große Abenteuer von Rudofos Rozendaal\nmit Daniel Fehr",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:cb6619023e6c4e48",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wir Kinder vom Bolzi\nmit Veronika Wiggert",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:cde569b67f55ab0c",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In einem dunklen Schrank verbirgt Tomáš Wels, Sohn des in den 1920er-Jahren erfolgreichen Architekten Rudolf Wels, eine Kiste gefüllt mit Aufzeichnungen. Nach ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ce35a6514add560e",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der offene Treff im Kinder - und Familienzentrum bietet die Möglichkeit, sich mit anderen Eltern und einer Fachkraft auszutauschen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ffbd4643693fff53",
@@ -117,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ausstellung von Kilian Kretschmer, Monica Menez, Stephen Obermeier, AIDEN (Clair Bötschi)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a6f1fd0f6d11f02e",
@@ -130,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne zeigt „Das Höhlenkind – Eine Steinzeitgeschichte“. Vor 30 000 Jahren wird der junge Urmensch Ard nach einer Naturkatastrophe ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4fec0a04fa23fb05",
@@ -143,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellungsintervention im Haus der Geschichte zeigt: Antisemitismus geht uns alle an. Die Intervention ist vom 8. Februar bis zum 6. September 2026 zu sehen. Der ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ecfeadf4878c5f46",
@@ -156,7 +156,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Zum 250. Geburtstag von Hegel am 27. August 2020 wurde nach umfangreichen Sanierungsarbeiten das Museum Hegel-Haus wiedereröffnet - mit einer neuen Dauerausstellung, ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:79e813df80898b7c",
@@ -169,7 +169,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Leica Galerie Stuttgart stellt vom 18.07.26 bis 10.10.26 Arbeiten des Fotografen Valentin Goppel aus.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7c98f7dc55da9a25",
@@ -182,7 +182,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Freiluftausstellung \"Ärzte ohne Grenzen hautnah\" schlägt im Juni auf dem Stuttgarter Schlossplatz ihre Zelte auf. An interaktiven Themenstationen und im ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:aea0cc7f24d177cb",
@@ -195,7 +195,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kurs für Mütter und Väter mit Babys geboren Anfang März bis Juni 2026",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:64229c8ed230a958",
@@ -208,7 +208,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Offenes Treffangebot für alle Mütter und Väter mit Babys und Kinder bis drei Jahre zum Austauschen, Netzwerken und Informieren. Einfach Tür aufdrücken, ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3a4543adffe27513",
@@ -221,7 +221,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der offene Treff im Stadtteil- und Familienzentrum E 88 in der Erisdorferstraße 88 bietet die Möglichkeit, sich mit anderen Eltern und einer Fachkraft auszutauschen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:19b15675e8c9ab1d",
@@ -234,7 +234,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ron baut eine Stadt\nmit Daniel Fehr\nRon baut sich eine Hütte",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dad665ce552863be",
@@ -247,7 +247,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Szenische Lesung zum 80. Todestag von Dietrich Bonhoeffer am 9. April 1945",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:862cea24093bb4c0",
@@ -260,7 +260,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorleseaktion / Bilderbuchshow",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:fd738356a7908e30",
@@ -273,7 +273,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der LABYRINTH Keramik-Werkstatt gestaltest Du zunächst Deine Form und bemalst sie danach mit individuellen Motiven.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:53b94ea72849c1e5",
@@ -286,7 +286,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stadterkundung im “roten Osten” zum Widerstand gegen Hitler und Krieg rund um den Ostendplatz (Stolpersteine Hermann Seitz, Theodor Decker, Karl Klett). Mit Gudrun ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9e6953bb2192d570",
@@ -299,7 +299,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stadterkundung in der Heidenklinge und Heslach",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f8d46e4f2fb1c1f4",
@@ -312,7 +312,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stolperstein-Rundgang",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:206c7f3357753ef4",
@@ -325,7 +325,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Klavierabend mit Stephanie Knauer, mit Werken von Fanny Hensel, Antonín Dvořák, Leoš Janáček u.a.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:579c1c42d5303254",
@@ -338,7 +338,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Weitere Werktagsmessen und Beichtgelegenheiten, gerne auch auf Anfrage, finden Sie unter: Tel.: 0711 9827791;stuttgart.petrusbruderschaft.de",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8555408fa83efc80",
@@ -351,7 +351,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5ec093de4acee022",
@@ -364,7 +364,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie waren wohl das berühmteste Brüderpaar der Jazzgeschichte und ihre Musik schlug in die Jazzwelt der fünfziger und sechziger Jahre ein wie eine Kanonenkugel.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bd3ae8e4a1ebef7a",
@@ -377,7 +377,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Weltalltage. Literatur und Teilhabe\nLesung und Gespräch mit Christoph Peters, Moderation: Lothar Müller",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5cf76371e0d1abfc",
@@ -390,7 +390,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Einfach Sunny\nmit Maren Graf\nAls Sunny, die selbsternannte Sachen-Sucherin...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2ea8286f7465bbf0",
@@ -403,7 +403,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Mercedes-Benz Museum in Stuttgart ist weltweit der einzige Ort, der die Innovationen über 130 Jahren Automobilgeschichte zeigt - sowie die neuesten Entwicklungen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5d1193e365d5a05e",
@@ -416,7 +416,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Porsche Museum ist die Visitenkarte der Marke Porsche am Porscheplatz. Hier schlägt seit mehr als 60 Jahren das Herz von Porsche.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c4c452b33a8c104a",
@@ -429,7 +429,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das 1981 bis 1985 erbaute \"Museum am Löwentor\" zeigt Funde aus der Vorzeit Südwestdeutschlands.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:966fc9bcb396ed5a",
@@ -442,7 +442,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Natur begegnet Kultur: Das mitten im Park gelegene Schloss Rosenstein ist Sitz der biologischen Ausstellung des Staatlichen Museums für Naturkunde Stuttgart.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a22dad2c0da35f20",
@@ -455,7 +455,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier in St. Elisabeth",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7500614bb8c9af46",
@@ -468,7 +468,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Magic Music\nmit Michael Petrowitz",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:de5466856aec7bd2",
@@ -481,7 +481,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das StadtPalais erzählt erstmals die Geschichte des Balletts von John Cranko bis zur Gegenwart in einer großen Sonderausstellung.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:41f2778b19229b58",
@@ -494,7 +494,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "BIG TINGS - Reggae, Soundsystems und die Stuttgart Massive erzählt die Geschichte von Reggae als globaler Kultur und Stuttgarts einzigartiger Szene. Mit Fotografien, ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f1f620bca69c4f3f",
@@ -507,7 +507,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Fotografien. Retusche. Deepfakes.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5c461a2bc5884b4f",
@@ -520,7 +520,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In aufwendig inszenierten Räumen wird Landesgeschichte lebendig. Die 1500 originalen Ausstellungsstücke machen deutlich, wie sich große Geschichte im Kleinen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:aba9ba9f48e8372e",
@@ -533,7 +533,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Linden-Museum Stuttgart ist eines der großen Völkerkundemuseen Europas und lädt ein zu einer Weltreise unter einem Dach.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:655a3945b738afcb",
@@ -546,7 +546,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "25 Jahre Literaturhaus - Schweben. Ein Kontrastprogramm in schweren Zeiten\nVöllig losgelöst mit Lothar Müller",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bc35f3bd8b8b64e7",
@@ -559,7 +559,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die ständige Ausstellung \"Stuttgarter Stadtgeschichten\" im StadtPalais beleuchtet die städtische Geschichte seit Ende des 18. Jahrhunderts bis in die Gegenwart aus ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:341b0bc83497ef63",
@@ -572,7 +572,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theodor-Heuss-Haus ist ein authentischer Ort der deutschen Demokratiegeschichte und Wohnhaus des ersten Bundespräsidenten.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:341f48e3c5aa3f3b",
@@ -585,7 +585,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Staatsgalerie Stuttgart gehört mit ihrem reichen Bestand an Gemälden und Plastiken vom 14. bis 20. Jahrhundert zu den meistbesuchten Museen Deutschlands, ihr ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b0213a51f50e2ce1",
@@ -598,7 +598,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Planetarium wird zur Zeitmaschine.\nWie ist das Weltall entstanden? Was hat sich auf der Erde abgespielt?\nAuf dieser Zeitreise werden die Zuschauer Zeuge der Geburt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bb146cf9ea95bf07",
@@ -611,7 +611,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ed5105bb0417e4bb",
@@ -624,7 +624,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Märchen mit Musik für Kitakinder ab ca. 5 Jahren und Grundschulkinder bis ca. 9 Jahren. Es spielt das Junge Orchester der Stuttgarter Musikschule unter der ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:596e08fb699c4024",
@@ -637,7 +637,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Doppelhaus von Le Corbusier, einem der einflussreichsten Architekten des 20. Jahrhunderts, macht die ästhetischen, sozialen und technischen Umbrüche der Moderne ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:62f5eb059adc1c75",
@@ -650,7 +650,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Einfach Sunny\nmit Maren Graf\nAls Sunny, die selbsternannte Sachen-Sucherin...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0b0fc7feee6e556b",
@@ -663,7 +663,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Magic Music\nmit Michael Petrowitz",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2c2f1973241ab3ae",
@@ -676,7 +676,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dieser Veranstaltung setzen wir die Illusionsmaschine des Planetariums ein, um die Planeten zu besuchen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f399b25bfa008f7d",
@@ -689,7 +689,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stuttgarts größtes Stadtentwicklungsprojekt entdecken – das geht in der Dauerausstellung Stuttgart Rosenstein.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4169e0a149ae7036",
@@ -702,7 +702,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die spektakuläre Sternenreise",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2d1c3dfe23c2cadd",
@@ -715,7 +715,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Jeden Monat findet in der Stadtteilbibliothek Bad Cannstatt eine öffentliche BilderbuchShow statt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:156dbc35167bfba2",
@@ -728,7 +728,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein humorvoller, überraschender und erhellender Blick auf ein Phänomen, dem wir von Geburt an unterliegen, aufgeführt im Wortkino - Dein Theater.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2dea97ddf50f73c5",
@@ -741,7 +741,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Fotograf Alwin Maigler nähert sich exemplarisch anhand türkisch-deutscher Migrationsgeschichten einem komplexen Gefühl von Zuhause an. Die Fotografien der Serie ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ce0063f6d4dd432b",
@@ -754,7 +754,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Team von Ehrenamtlichen unterstützt bei Hausaufgaben, Referaten, GFS und weiteren Fragen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:41c9a4de3bb61800",
@@ -767,7 +767,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:20d346626e699a6d",
@@ -780,7 +780,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ebru Gözcüler vom Projekt „Smart City“ der Stadt Stuttgart",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:026c3ab7f5b3ccc8",
@@ -793,7 +793,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Sonderausstellung \"Ballettwunder\" erzählt die Geschichte und Gegenwart des Balletts in Stuttgart. Im Zentrum steht die weltweite Strahlkraft des Stuttgarter ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f9c884f81b52fc1b",
@@ -806,7 +806,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1a751992f23c0fa6",
@@ -819,7 +819,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In den Räumen der Kulturenmühle findet wöchentlich Theaterunterricht für Kinder und Jugendliche von 8 bis 12 Jahren statt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e8ca27d79fef08e4",
@@ -832,7 +832,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:fac7d96aa6f1a3fe",
@@ -845,7 +845,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b85802ccd1239a23",
@@ -858,7 +858,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesdienst mit Kommunion",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d5098c27c1a5c5c7",
@@ -871,7 +871,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bei diesem Kursangebot bekommen Sie fachliche Inputs und Begleitung zu vielen verschiedenen Themen der Erziehung.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5097fa5f6e3cc463",
@@ -884,7 +884,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:289f67c7615b53f2",
@@ -897,7 +897,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:447d46084904cb8f",
@@ -910,7 +910,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "„Mit Sven Helbig kann man die Bewegung des Universums hören.“ (Webzine „Drowned in Sound“)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f3da10ded58c183d",
@@ -923,7 +923,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Buchpremiere\nLesung und Gespräch mit Heinrich Steinfest, Moderation: Thomas Tebbe",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6f6624b8720b71cb",
@@ -936,7 +936,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Abend voller Denkanstöße – unterhaltsam und inspirierend im Renitenztheater",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9a8b55cc75236b1b",
@@ -949,7 +949,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In Bewegung bleiben und mit anderen Menschen aus dem Bezirk Weilimdorf in Kontakt kommen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7ccddc11885c0bcc",
@@ -962,7 +962,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadt Stuttgart und das Energieberatungszentrum Stuttgart (EBZ) unterstützen Eigentümerinnen und Eigentümer mit der Aktion Gebäudesanierung. Ziel ist es, erste ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8b6913c228c158bd",
@@ -975,7 +975,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Studierende der Merz Akademie stellen fotografische Arbeiten aus dem Semesterprojekt RAW & MESSY aus.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e5a936f073e1116e",
@@ -988,7 +988,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gemeinsam spazieren wir durch den Stuttgarter Norden. Veranstalter ist das Familienzentrum St. Franziskus. Wir freuen uns über Senioren, Familien, Mütter mit Kinder ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c9faf6c84e29c67d",
@@ -1001,7 +1001,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:729f5c69fe3092af",
@@ -1014,7 +1014,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:313096a2a68c385b",
@@ -1027,7 +1027,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dea470e7023f51b2",
@@ -1040,7 +1040,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Spannend schreiben\nmit Mareike Fröhlich",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9ab7f43e68221cb6",
@@ -1053,7 +1053,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Objekttheater für Kinder ab 4 Jahren\nvom Tangram Kollektiv, Berlin",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:66b026a7c5da1767",
@@ -1066,7 +1066,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mops und Kätt entdecken den Wald\nmit Vera Schmidt",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:811104c475345eea",
@@ -1079,7 +1079,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Sommer auf Kullerö\nmit Greta Svensson",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:66d8b5adb93c6231",
@@ -1092,7 +1092,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Sommer bietet mit seinen warmen Nächten eine gute Gelegenheit zum \"Spaziergang am Himmelszelt\". In dieser Vorführung wird der Sternenprojektor genutzt und die ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7487684f1010ce6e",
@@ -1105,7 +1105,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bist du 15 - 23 Jahre alt?\n\nHast du oder hat deine Familie Migrationserfahrung? \n\nMöchtest du Teil einer Tanzgruppe sein?\n\nDann komm zum Dance Lab!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2736c4eef94a2e2c",
@@ -1118,7 +1118,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Einzelausstellung von Marc C. Woehr, seine erste seit der Aufnahme des Künstlers in das Portfolio der Galerie, markiert einen radikalen Wandel in seinem Schaffen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7e017529492efb4e",
@@ -1131,7 +1131,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe Bibliotheksgärten",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:95021b696a0337e9",
@@ -1144,7 +1144,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Historische Ereignisse und lokale Stadtgeschichte.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3c294024c6eb6ae7",
@@ -1157,7 +1157,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der Backwerkstatt werden jeden Mittwoch heimische Köstlichkeiten und Süßgebäck aus aller Welt gebacken.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6f7d5bbfe77ee699",
@@ -1170,7 +1170,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dieser vom Planetarium Stuttgart erweiterten Fassung der international preisgekrönten Fulldome-Show „Explore!“ erleben Sie einen beeindruckend naturgetreu ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:45fbf76cde8fa722",
@@ -1183,7 +1183,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Kinder werden im Kulturwerk Stuttgart an den Tanz herangeführt und der Workshop schafft die Grundlage für verschiedene Tanzrichtungen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:64559664700468ca",
@@ -1196,7 +1196,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Feuerbach bietet regelmäßig eine Vorlesestunde mit Ehrenamtlichen an.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:71549ebfca0cb9b5",
@@ -1209,7 +1209,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Kinder lernen im Kulturwerk Stuttgart nicht nur die Grundlagen verschiedener Tanzstile, sondern entdecken auch die Magie des Schauspielens.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:36a25cd361546086",
@@ -1222,7 +1222,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Hier werden Jugendliche auf spielerische Weise mit der deutschen Sprache vertraut gemacht mit Rita Heimberger",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6112cc670ed25afd",
@@ -1235,7 +1235,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie verkaufe ich in der aktuellen Situation bestmöglich?",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4fc5eb16ae325473",
@@ -1248,7 +1248,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0ff83f6049b60bc6",
@@ -1261,7 +1261,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit den Grundelementen der darstellenden Kunst wird auf spielerische Art ein Bewusstsein für sich und die Anderen entwickelt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:20cad403670b7226",
@@ -1274,7 +1274,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:88f3a3d676ced14e",
@@ -1287,7 +1287,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b7d9c1d9176b50fa",
@@ -1300,7 +1300,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:aef5c63771fae478",
@@ -1313,7 +1313,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Andrea Gnam zur Ausstellung: \"Kann Spuren von Natur enthalten – fünf Betrachtungen der menschlichen Aneignung\" in der vhs-photogalerie",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1954e425cac2253f",
@@ -1326,7 +1326,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine musikalische Reise durch die Welt der Oper und Operette mit Eva Wenniges (Mezzosopran) und Giulio Ferré (Klavier)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4ce1ddcdd8b2df4a",
@@ -1339,7 +1339,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Konzert für Schüler:innen, Studierende, FSJler:innen, Azubis und alle anderen Menschen unter 26 Jahren mit dem SWR Symphonieorchester in der Liederhalle ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6ede0fe79a8c0722",
@@ -1352,7 +1352,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Blick hinter die Kulissen des Planetariums: In dieser live moderierten Vorführung geben die Mitarbeiter*innen des Planetariums einen Einblick in die moderne ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0e13a16b8cce5eb1",
@@ -1365,7 +1365,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Lesung und Gespräch mit Lukas Rietzschel, Moderation: Andreas Platthaus",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5d6b814148162d77",
@@ -1378,7 +1378,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Abendvortrag im Rahmen der Kooperation von \"70599Lebenswert\" und der Stadtteilbibliothek Plieningen: Dr. Andreas Knie referiert im Alten Rathaus (Goezstr. 1, 70599 ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:497a09c91ff8ec48",
@@ -1391,7 +1391,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bei unserem besonderen Comedy-Abend stehen nicht nur großartige Künstler*innen auf der Bühne, sondern auch zwei Gebärdensprachdolmetscher*innen, die jedes ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:fc0ec926a94817d8",
@@ -1404,7 +1404,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Im Rahmen der Themenwoche der Stg. „Von Superkräften und Alltagsheld*innen“ präsentiert das Werkstatthaus am 20.05.26 den Film: \n\n„I, Daniel Blake“ von Ken ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0e3da19a931808fd",
@@ -1417,7 +1417,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit dem Technologietag lädt das Zentrum für Internationales Technologiemanagement (ZIT) der DHBW Stuttgart zum Austausch zwischen Praxis und Wissenschaft ein.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ecac7fca26c35322",
@@ -1430,7 +1430,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1cb68aa61f07328f",
@@ -1443,7 +1443,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a7d2fb6e06cae95f",
@@ -1456,7 +1456,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a4b54d8f89f6fa53",
@@ -1469,7 +1469,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Vaihingen bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b2b317d912329580",
@@ -1482,7 +1482,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorträge, Feldbegehung und fachlicher Austausch zu aktuellen Forschungsarbeiten, Anbau, Sortenwahl und Nutzungsmöglichkeiten von Hanf und Saflor: Das erwartet ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:822b808f2091b119",
@@ -1495,7 +1495,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek West bietet jede Woche in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ac1a360eaf321074",
@@ -1508,7 +1508,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der offene Treff im Stadtteillhaus Mitte im Cafébereich bietet die Möglichkeit, sich mit anderen Eltern und einer Fachkraft auszutauschen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:67c9d91f3a467144",
@@ -1521,7 +1521,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8932399ece569747",
@@ -1534,7 +1534,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Webinarreihe für Berufstätige 2026. Nehmen Sie an den kostenlosen Webinaren teil, erfahren Sie mehr und stellen Sie Ihre Fragen!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7dbd0b14069715e2",
@@ -1547,7 +1547,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesfeier im Altenheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4691d52d3f610d23",
@@ -1560,7 +1560,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Feuerbach bietet Kindern ab 8 Jahren die Möglichkeit einer ersten Begegnung mit der digialen Welt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2f3578308272b10a",
@@ -1573,7 +1573,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "mit Abschlusspräsentation im Konzert am Do, 23. Juli 2026",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a19ab71dfe2fba52",
@@ -1586,7 +1586,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eigentümerinnen und Eigentümer von Mehrfamilienhäusern stehen vor komplexen Entscheidungen: Wie können Sanierungen heute wirtschaftlich und gleichzeitig ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d021a954e301b33e",
@@ -1599,7 +1599,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie engagieren sich Menschen in Stuttgart – und wie können Sie selbst aktiv werden? Lernen Sie die zentrale Anlaufstelle der Landeshauptstadt Stuttgart für alle ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:95075ccf01b0de1a",
@@ -1612,7 +1612,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:64784e1c5d433dca",
@@ -1625,7 +1625,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistische Anbetung und Rosenkranz",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c69cf6604d0f3b06",
@@ -1638,7 +1638,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musik, Comedy und Improtheater im Hospitalhof Stuttgart gibt es in der vierten Auflage des Benefiz-Abends \"Lichtblicke\" der Diakonie Württemberg. Ab 18 Uhr wird im ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d9f36ce68e8a5273",
@@ -1651,7 +1651,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Schreibwerkstatt für Frauen und öffentliche Gerichtsverhandlung.\nEine Veranstaltung des Literatursommers 2026 der Baden-Württemberg Stiftung",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c189c2a7149d0726",
@@ -1664,7 +1664,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Handarbeitstreff mit der Künstlerin Patricia Paryz",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5277c5e095497a98",
@@ -1677,7 +1677,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Benefizkonzert im Weißen Saal im Neuen Schloss zugunsten der Olgäle-Stiftung. Es spielen Preisträgerinnen und Preisträger der Stuttgarter Musikschule",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f2e5c46dd4d4927e",
@@ -1690,7 +1690,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Leben, Schicksal und Dichtung von Mascha Kaléko",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:68bcedfbfe8f3f12",
@@ -1703,7 +1703,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag und Gespräch im Haus der Geschichte",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:95039f879e5aab96",
@@ -1716,7 +1716,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Zum zweiten Mal ist das Literaturhaus Stuttgart im Park der Villa Berg zu Gast und lädt mit der „Schlagerparade“ zu einem ebenso unterhaltsamen wie klugen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2ffac40839f5ecd9",
@@ -1729,7 +1729,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "\"Klassik trifft Leidenschaft\" im Fest der Männerstimmen - Der Kolping-Chor Stuttgart singt bekannte Werke u. a. von Silcher, Schubert, Beethoven, Mendelssohn",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:02ba6fcc225e1a7f",
@@ -1742,7 +1742,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ab Juni verwandelt sich der Garten des Werkstatthauses in eine Bühne für\nhandgemachte Musik.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6ac976471682be0a",
@@ -1755,7 +1755,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eros & Ramazotti ist eine umwerfende musikalische Komödie voller Leidenschaft, Witz und großen Emotionen. Erzählt mit den großen Hits Italiens – von Adriano ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:305335a70a2026d5",
@@ -1768,7 +1768,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Väterstammtisch im Gaisenhaus bietet Impulse zu den jeweiligen Themen und die Möglichkeit, Fragen zu stellen und in den Austausch mit anderen Vätern zu kommen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:212bbfdd192b179a",
@@ -1781,7 +1781,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "2026 findet wieder das größte queere Festival Baden-Württembergs statt: die CSD-Hocketse; dieses Jahr erstmals drei Tage lang. Von Freitag- bis Sonntagabend heißt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9ad847f550a1cf17",
@@ -1794,7 +1794,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Geistliche Vokalmusik in der Stiftskirche",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:55fa4572b449ad41",
@@ -1807,7 +1807,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:08c33e13644214a9",
@@ -1820,7 +1820,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dfd838d5c1466b63",
@@ -1833,7 +1833,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein liebenswertes, sprechendes Astronomiebuch führt unsere zwei Hauptdarsteller und unsere Besucher in einem atemberaubenden Flug zu allen Planeten unseres ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3d172354179e9a33",
@@ -1846,7 +1846,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e1f1c90898549581",
@@ -1859,7 +1859,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die kleine, wissbegierige Maus Armstrong ist fasziniert vom Weltraum, besonders vom Mond. Bei klarer Nacht beobachtet Armstrong ihn mit seinem kleinen Fernrohr und ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:71c9628ac3adcb1b",
@@ -1872,7 +1872,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Galerie Bovistra in Stuttgart präsentiert ab Juli Arbeiten des Künstlers Dirk Uhde aus Villingen im Schwarzwald.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:47c8669fc5026b68",
@@ -1885,7 +1885,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorleseaktionen des Vereins Leseohren e. V. in der Stadtteilbibliothek Weilimdorf",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e99bd9c430ab593c",
@@ -1898,7 +1898,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vernissage: Do., 21. 05. 2026 19:30 Uhr \nLaufzeit:      22.05.26 - 26.07.26",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d8149d13a8e7d88e",
@@ -1911,7 +1911,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie haben Interesse an einer Solaranlage? Die SolarScouts Stuttgart zeigen Ihnen den Weg zu Ihrer eigenen PV-Anlage auf und beantworten Ihre Fragen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5458b93a9c463b19",
@@ -1924,7 +1924,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Interesse an kniffligen neuen Projekten, Robotern oder deren Technik?",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0f69d070c418559a",
@@ -1937,7 +1937,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7a9c931672990e5c",
@@ -1950,7 +1950,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Sonne ist der Stern des Lebens. \nOhne ihr Licht und ihre Wärme gäbe es auf der Erde kein Leben.\nDie Energiequelle unseres Daseins hat ein wahrhaft hitziges ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:54bc898e60e6f0f1",
@@ -1963,7 +1963,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b3dae5528416ee29",
@@ -1976,7 +1976,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Neue-Musik-Festival \"Der Sommer in Stuttgart\" wird im Theaterhaus mit der performativen Reflexion #freemaria von und mit Maria Kalesnikava eröffnet.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:931fd1a04876fbea",
@@ -1989,7 +1989,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Musical Projekt mit rund 180 Schülerinnen und Schülern der GWRS Ostheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9bc379e80f209131",
@@ -2002,7 +2002,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "eventuell eine Wort-Gottes-Dienst-Feier;",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5f5dec39e065d2e3",
@@ -2015,7 +2015,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:217b6469d59f8ff3",
@@ -2028,7 +2028,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Liebe als Kampf auf Leben und Tod: Ein Musiktheaterprojekt des Eberhard-Ludwigs-Gymnasiums Stuttgart",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0cd6b1e86a884c14",
@@ -2041,7 +2041,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "\"Konfetti!\" ist ein brachial-amüsantes Lehrstück zur Stunde, im rasant heraufdämmernden globalen Zeitalter der Gegenaufklärung!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:916fa575a19bbe9d",
@@ -2054,7 +2054,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Seit mehr als 5 Jahren trifft sich der Offene Chor des Musikwerks Dienstags im Stadtpalais. Rund 100 Menschen kommen spontan oder regelmäßig vorbei, nehmen sich ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b60a0a4cd0ce8620",
@@ -2067,7 +2067,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein neues Theaterstück des DialogTheaters. Vierzehn Menschen betreten freiwillig ein Spiel. Doch schnell wird deutlich: Es geht nicht nur um Geld, sondern um Macht, ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ed4807eb01704d4a",
@@ -2080,7 +2080,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Schülerinnen und Schüler der JAS Education freuen sich auf eine neue, spannende Herausforderung: das Musical Non(n)sens.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:456bb2a650fbc6b2",
@@ -2093,7 +2093,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikshow des Planetariums Stuttgart.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:db760c4a109b9c9f",
@@ -2106,7 +2106,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sing gemeinsam mit hundert anderen deine Lieblingssongs!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c62d12c31751903d",
@@ -2119,7 +2119,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "JugendTheater des Forum 3",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:31f018f4470b7b31",
@@ -2132,7 +2132,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Freuen Sie sich auf einen Abend mit großem Humor, starken Pointen und kabarettistischem Tiefgang.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e0f031ee415a04c0",
@@ -2145,7 +2145,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Geschichte nur für dich in der Stadtteilbibliothek Neugereut.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:55e620424e1d64d6",
@@ -2158,7 +2158,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:71a1c4b21fc16d87",
@@ -2171,7 +2171,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der WaldauSommer unterm Turm ist ein gemeinsames Sommerfest der Waldauer Vereine anlässlich des 70-jährigen Jubiläums des SWR Fernsehturms Stuttgart. Am 25. und 26. ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7ea0deb4ec8cec35",
@@ -2184,7 +2184,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Unsere Lesepatin Frau Lembke entdeckt mit dir die Welt der Geschichten in der Stadtteilbibliothek Untertürkheim.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dff1548880fea990",
@@ -2197,7 +2197,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie kann man über den eigenen Alltag hinaus etwas bewirken? Wo lassen sich Rahmenbedingungen so verändern, dass nachhaltiges Leben für alle einfacher wird? Darum ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:59264a4324df35c6",
@@ -2210,7 +2210,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Freiwillige Feuerwehr Stuttgart, Abt. Wangen veranstaltet zum zweiten Mal ihr großes Feuerwehrfest vor der Wangener Kelter. Zusätzlich feiert die Jugendfeuerwehr ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9b52fa2d2aedcef5",
@@ -2223,7 +2223,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:071d117459eddc1b",
@@ -2236,7 +2236,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Unter dem Motto „Ohne uns kein Wir! – Füreinander laut, miteinander stark.“ startet die diesjährige CSD-Demonstration der Stuttgart PRIDE. Lasst uns alle ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5598f7cce4792bd2",
@@ -2249,7 +2249,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der DBL, Frauen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:733c22499ef20a82",
@@ -2262,7 +2262,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "An dem Schwimmwettbewerb sind die Jahrgänge 2018 und älter teilnahmeberechtigt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7791eb35b04a5e3b",
@@ -2275,7 +2275,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der Kindershow des Planetariums gelangen drei Kinder auf wundersame Weise in die Raumstation Observer und reisen durchs All.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:784672479a293fee",
@@ -2288,7 +2288,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Testspiel",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:215f1899f773a532",
@@ -2301,7 +2301,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Figurentheater",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0db7da2ea2627b03",
@@ -2314,7 +2314,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne zeigt das Figurentheater „Matze – die kleine Miezekatze“. Fräulein Buchfink lebt allein, bis eines Tages ein tapsiges Kätzchen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4925b067bd5707af",
@@ -2327,7 +2327,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "u29 – für alle unter 29",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:de628fd1e1e251f1",
@@ -2340,7 +2340,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die beliebte Kindershow des Planetariums ist eine liebevolle und unterhaltsame Entdeckungsreise für Jung und Alt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ed208a528cb9b45f",
@@ -2353,7 +2353,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Klanglese geht in die 9. Runde! Rund um das Weinbergshäusle an der Mönchhalde lassen wir es uns mit gutem Wein und Musik gut gehen! Als Snack zum Wein werden ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f88099f2c6d6f5ce",
@@ -2366,7 +2366,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Treff",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1d829e7a5b6f59a9",
@@ -2379,7 +2379,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Reise in die Welt der Polarlichter beginnt in Stuttgart. Im Planetarium lernen wir die Sterne und Sternbilder eines winterlichen Abendhimmels kennen und ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4120fc4a433bd731",
@@ -2392,7 +2392,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d47fe5a3793efacc",
@@ -2405,7 +2405,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikshow des Planetariums Stuttgart über das erfolgreichste Album der britischen Rockband Pink Floyd.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9b29109e6872db89",
@@ -2418,7 +2418,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Schülerinnen und Schüler der Stuttgarter Musikschule spielen Werke für Bratsche, Violoncello, Gambe und Kontrabass im Karl-Adler-Saal im Treffpunkt Rotebühlplatz.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d4a9193212d7382a",
@@ -2431,7 +2431,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bff542930bdee252",
@@ -2444,7 +2444,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3778d7f7885ec23d",
@@ -2457,7 +2457,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Kammerhöroper DEEP SIESTA von Amen Feizabadi wird im Theaterhaus als Stuttgarter Erstaufführung gezeigt. Das Werk des iranischen Komponisten handelt von ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:41fe38e433265743",
@@ -2470,7 +2470,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikalischer Sternenhimmel mit TONIC, Popchor vom Liederkranz Botnang, Unerhörte Tonartisten, Stuttgarter Kesselkehlchen und ENNEA Vocalensemble",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c5fc4eb24216cadf",
@@ -2483,7 +2483,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Konzertabend mit dem International Choir of Stuttgart e.V. (ICS)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:84048b95cea12736",
@@ -2496,7 +2496,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Stuttgarter Brenzhaus-Orchester, ein Orchester aus Profis und ambitionierten Laien, spielt unter der Leitung von Christopher Jöckel sein Sommerkonzert.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:515b4f0769292e25",
@@ -2509,7 +2509,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Liebe als Kampf auf Leben und Tod: Ein Musiktheaterprojekt des Eberhard-Ludwigs-Gymnasiums Stuttgart",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:92368e634c550275",
@@ -2522,7 +2522,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein bewusstloser Mann, zwei wortgewandte Schwestern und ein Abend, an dem nichts so bleibt, wie es scheint.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6616d256c35ae85b",
@@ -2535,7 +2535,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Stuttgarter Experimentaltrio Pony Says stellt beim \"Sommer in Stuttgart\" eine weitere Ausgabe seiner Reihe Pop-up vor. Diesmal ist der italienische Sound Artist ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:40c328c4102eefd6",
@@ -2548,7 +2548,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1e20fd80e549f974",
@@ -2561,7 +2561,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c10a57853747f05d",
@@ -2574,7 +2574,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d7c25de1b678fcde",
@@ -2587,7 +2587,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d36c7cd14dffc095",
@@ -2600,7 +2600,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:cec299a11f5aadc5",
@@ -2613,7 +2613,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ee918f10d7995c79",
@@ -2626,7 +2626,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:264d7c055bafebd5",
@@ -2639,7 +2639,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1c075580640003f7",
@@ -2652,7 +2652,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:536945032140911e",
@@ -2665,7 +2665,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d94edcdf2cc32e9f",
@@ -2678,7 +2678,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:94916df71875e0ad",
@@ -2691,7 +2691,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Handgemachte Musik für Klein und Groß: Ein interaktives Familien-Konzert ohne Altersgrenze mit verschiedenen Musikrichtungen und Mitmachaktionen. Hier muß keiner ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:962e1c27c0c37fcf",
@@ -2704,7 +2704,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:27a6014471aae9d8",
@@ -2717,7 +2717,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wir beginnen gemeinsam in der Kirche. Dann gehen die Kinder in den Kindergottesdienstraum.\nZum Vaterunser kommen sie wieder zurück und beenden den Gottesdienst ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e7ed030bd8c098cd",
@@ -2730,7 +2730,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:05419f276b2bf5e2",
@@ -2743,7 +2743,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Tauchen Sie in die erholsame Welt des Waldbadens ein und erleben Sie die Kraft der Natur!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:fd396351dd5c00ca",
@@ -2756,7 +2756,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier in der St. Thomas Kirche, Beichtemöglichkeit auf polnisch während der Messe",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:881563231cffede6",
@@ -2769,7 +2769,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f54d44a94835f4a9",
@@ -2782,7 +2782,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4b658cc79dd7e318",
@@ -2795,7 +2795,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:44574e362235593a",
@@ -2808,7 +2808,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:34adcbf8234e4b2f",
@@ -2821,7 +2821,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das musikalisch-performative Projekt \"THE QUEER ART OF FAILURE\" ist inspiriert von der \"Idee des Scheiterns als queere, produktive und transformative Strategie\". Die ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:904fe6a9bbd2bcaf",
@@ -2834,7 +2834,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Herzlich Wilkommen in der St. Christophorus Kirche. Ab dem 18. Februar sind wir auch in Stuttgart Wangen jeden Sonntag bis auf weiters anwesend. Eucharistiefeier ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7bb126c23993d52a",
@@ -2847,7 +2847,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier des Geez-Ritus",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:98576892bdddd79e",
@@ -2860,7 +2860,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:44107077696dd85d",
@@ -2873,7 +2873,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Im Neckar darf man zwar noch nicht baden, aber den Fluss genießen, das klappt auch mit SUP oder Kanu auf dem Wasser. Mit der Critical Nass lädt der Neckarinsel e.V. ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dcae62a82de6c024",
@@ -2886,7 +2886,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kindershow im Planetarium Stuttgart.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f791c0c6f029bfe1",
@@ -2899,7 +2899,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Möhringer Heimatmuseum wurde 1936 im Hauptgeschoss des 1469 erbauten Spitalhofes des Esslinger Katharinenhospitals eröffnet.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:180cd4c2460f746f",
@@ -2912,7 +2912,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der historischen Zehntscheuer erzählt das Heimatmuseum die Geschichte der Stuttgarter Bezirke Plieningen und Birkach. Das Museum inszeniert sechs charakteristische ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ace307b6c897c030",
@@ -2925,7 +2925,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stuttgarts sommerliches Neue-Musik-Festival endet mit einem großen dreiteiligen Konzert-Finale unter dem Titel KAMMER-SPIELE. Mit von der Partie sind die Neuen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
+    },
+    {
+      "id": "stuttgart-official:580cb095072cf414",
+      "source": "stuttgart-official",
+      "title": "Benefizspazierwegkonzert mit der Ecuador Brass Band",
+      "start": "2026-07-26T15:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/benefizspazierwegkonzert-mit-der-ecuador-brass-band-530965?p=sig%3AxMbAO67TwI5xFqA-%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486396",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am Sonntag, 26. Juli 2026 findet um 17 Uhr in der Petruskirche Obertürkheim ein Benefizspazierwegkonzert mit der Ecuador Brass Band statt. Es wird Musik aus Ecuador, ...",
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2265663c6e7c94df",
@@ -2938,7 +2951,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Öffentliche Führung durch die Sonderausstellung \"Rechtsextremer Terror\" im \"Hotel Silber\"",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:52819d1d59e7e5a1",
@@ -2951,7 +2964,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "U29 – für alle unter 29\nzwischen/miete x Leise-Festival",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3373e0ae4a5020cf",
@@ -2964,7 +2977,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Zwei Welten – ein Abend mit der Singakademie Stuttgart",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:20f8c8d9a1a892a9",
@@ -2977,7 +2990,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impossible Space nimmt Sie auf eine außergewöhnliche Reise durch den Kosmos – und darüber hinaus – mit.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ccdf00c2d6d8f793",
@@ -2990,7 +3003,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Stuttgarter Oratorienchor veranstaltet in der Domkirche St. Eberhard am 26. Juli 2026 sein diesjähriges Sommerkonzert. Beteiligt sind Gäste aus Brünn, einer ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f4a2a0c549d171e6",
@@ -3003,7 +3016,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Konzertabend mit dem International Choir of Stuttgart e.V. (ICS)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a61242092299928c",
@@ -3016,7 +3029,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Liebe als Kampf auf Leben und Tod: Ein Musiktheaterprojekt des Eberhard-Ludwigs-Gymnasiums Stuttgart",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e5b4f8420caba8e4",
@@ -3029,7 +3042,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:09cdfeda80144f33",
@@ -3042,7 +3055,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "“Mehr als alles andere behüte dein Herz; denn von ihm geht das Leben aus.” Spr 4,23\nManchmal braucht es mehr als Worte, damit das Herz wieder weit wird. ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c8f2e76290078bda",
@@ -3055,7 +3068,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Festival der Sommer in Stuttgart wird von den Kara_wOke-pieces Alan Hilarios im Württembergischen Kunstverein beschlossen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:99e54edbf4c9a89a",
@@ -3068,7 +3081,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Lesung für Kindergruppen ab 3 Jahren in der Stadtteilbibliothek West.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0f351d6db9031596",
@@ -3081,7 +3094,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Neugereut bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:84e2e26b49f5f393",
@@ -3094,7 +3107,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gebet",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e13d7288a7c46764",
@@ -3107,7 +3120,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Man stelle sich vor, man müsste die Heimat verlassen und hätte nur einen Koffer: Was würde man einpacken? Einfache Koffer werden in narrative Objekte gestaltet.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9014d5b782be8aa7",
@@ -3120,7 +3133,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Man stelle sich vor, man müsste die Heimat verlassen und hätte nur einen Koffer: Was würde man einpacken? Ausgewählte Exponate werden in der Stadtteilbibliothek ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3e701a2ba307b931",
@@ -3133,7 +3146,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ausstellung in der Stadtteilbibliothek Vaihingen",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e356a362dda87b9d",
@@ -3146,7 +3159,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "08.30 Uhr Franz Schubert Schule\n11.00 Uhr Kirchhalden Schule",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:759f7087495ce686",
@@ -3159,7 +3172,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Feuerbach bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3f3b1e382a9fe2af",
@@ -3172,7 +3185,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Team der Volkssternwarte Laupheim besuchte das Armstrong Flight Research Center im kalifornischen Palmdale und erlebte die Vorbereitung und Durchführung eines ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e08edca5726b97a3",
@@ -3185,7 +3198,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Politik und Schlager seit den 30er-Jahren",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9a2c564421502925",
@@ -3198,7 +3211,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe: Bilderbuchshow in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ee0925388f1ce615",
@@ -3211,7 +3224,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Weilimdorf bietet regelmäßige Einzelsprechstunden an, die von bürgerschaftlich Engagierten, sogenannten Digital-Helfenden durchgeführt werden.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5f5d6c9709174d1d",
@@ -3224,7 +3237,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Aktuell warten in Stuttgarter Grundschulen -aktuell dringend in Untertürkheim und Wangen- zahlreiche Kinder auf Unterstützung durch einen Menschen, der ihnen als ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3bc8f37922db960e",
@@ -3237,7 +3250,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In 45 Minuten erhalten Sie in dieser Online-Infosession Einblick in das 1:1-Mentoring-Konzept von KinderHelden, erfahren, warum die gemeinsam verbrachte Zeit sowohl ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6754051f31ef4fd3",
@@ -3250,7 +3263,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Stadtteilbibliothek Stammheim in der Reihe Shared Reading",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:35240784b9d1bbbf",
@@ -3263,7 +3276,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c8b5db519d525e9e",
@@ -3276,7 +3289,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9b3c27635864edb3",
@@ -3289,7 +3302,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Eucharistiefeier ist alle Gläubigen der Gemeinde und alle haupt- und ehrenamtlichen Mitarbeitenden offen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:18f78f4b53959019",
@@ -3302,7 +3315,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vom 29.-30. Juli geht unsere beliebte Lauf- und Walking-Challenge in die nächste Runde!\n\nEgal ob Lauf- oder Walking-Fan, Einsteiger oder Profi, Einzel- oder ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2c2053cad595ce0c",
@@ -3315,7 +3328,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Steuerlich kann es sinnvoll sein, Immobilien bereits zu Lebzeiten an die nächste Generation zu übertragen. Dies gilt allerdings nur unter bestimmten Voraussetzungen. ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:72a172a1c4a5e825",
@@ -3328,7 +3341,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung in der zweiten Runde des WFV-Pokals, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:56a22209cb60b23f",
@@ -3341,7 +3354,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine energiegeladene Mischung aus Kabarett, Comedy, Chanson und Travestie: Wommy räumt auf – im Kopf, im Herzen und in der Rumpelkammer der Gefühle. Mit bissigen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:90fe8784f055bd05",
@@ -3354,7 +3367,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Reinschnuppern, mitmachen, zuschauen, alles ist erlaubt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:796c6ebc635ff09a",
@@ -3367,20 +3380,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "A Sophisticated Evening\nAndrew Andrews & The Sophisticated Orchestra\nfeaturing Linda Kyei und Richard Herfeld",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
-    },
-    {
-      "id": "stuttgart-official:29f99adc6c87b6f7",
-      "source": "stuttgart-official",
-      "title": "Kurs Elternkompass - Kinder bestmöglich beim Wachsen begleiten",
-      "start": "2026-07-30T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kurs-elternkompass-kinder-bestmoeglich-beim-wachsen-begleiten-529924?p=sig%3AoYG0X-sQh-SE2JOL%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484849",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Der Kurs richtet sich an Eltern mit Kindern im Alter von 0 bis 11 Jahren, die sich in den Themen Erziehung und Elternsein stark machen wollen und Ideen für die ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e11d44d1af742e3f",
@@ -3393,7 +3393,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem kostenlosen Eltern-Baby-Kurs geht es rund um die Themen, die junge Eltern in den ersten Monaten beschäftigen. Der Kurs findet sechs Mal am Marienplatz 3 in ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
+    },
+    {
+      "id": "stuttgart-official:29f99adc6c87b6f7",
+      "source": "stuttgart-official",
+      "title": "Kurs Elternkompass - Kinder bestmöglich beim Wachsen begleiten",
+      "start": "2026-07-30T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kurs-elternkompass-kinder-bestmoeglich-beim-wachsen-begleiten-529924?p=sig%3AoYG0X-sQh-SE2JOL%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484849",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Der Kurs richtet sich an Eltern mit Kindern im Alter von 0 bis 11 Jahren, die sich in den Themen Erziehung und Elternsein stark machen wollen und Ideen für die ...",
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:64ad588fa50a24ce",
@@ -3406,7 +3419,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesdienst im Altenheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dea7b32047225a7c",
@@ -3419,7 +3432,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Medienbildung / Digitale Lesekompetenz",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:81e5ae0ef1c6a344",
@@ -3432,7 +3445,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Treff",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:73789d499e3a7da5",
@@ -3445,7 +3458,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Leonard Cohens Lieder handeln von Liebe, Hass, Sehnsucht, Erfüllung, dem strafenden Gott, der liebenden Frau und umgekehrt. Von Denis Fischer interpretiert, treffen ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7e03b502fb3531c2",
@@ -3458,7 +3471,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "„It Has To Feel Good“, heißt der erste Song von Sandie Wollaschs aktuellem Album „Women’s Choice“, dass die Karlsruher Sängerin ein weiteres Mal mit dem ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a1247ff4b685b888",
@@ -3471,7 +3484,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Stuttgarter Flamenco Festival wurde im Jahr 2010 von der Tänzerin und Choreographin Catarina Mora gegründet. Seither findet das Festival jährlich einmal statt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6f562a8eb1b60755",
@@ -3484,7 +3497,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Thema Künstliche Intelligenz (KI) ist allgegenwertig und begegnet uns in vielen Lebensbereichen. \nWelche Chancen bietet KI, um unsere Lebensqualität zu steigern? ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dc48560ebac65ea5",
@@ -3497,7 +3510,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesfeier",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d0a270aff82ca5aa",
@@ -3510,7 +3523,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b92d1e1de06ad856",
@@ -3523,7 +3536,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Treff und Spielen in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:589cf0e679188e77",
@@ -3536,7 +3549,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteildelegierten des StadtSeniorenRat Stuttgart e.V. informieren über die Themen: Vorsorgevollmacht, Betreuungsverfügung, Patientenverfügung.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dfc0f185c8d62851",
@@ -3549,7 +3562,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Spielen | Genre: Fantasy",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:badf3e848094d7ca",
@@ -3562,7 +3575,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7c4dc7e778e0278e",
@@ -3575,7 +3588,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:256632459af78d03",
@@ -3588,7 +3601,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gewinnen und verlieren – alles nur Kopfsache?! – Vortrag und Live-Coaching im Dr. Holzinger Institut Stuttgart mit Coach und Bestseller Autor Dr. Daniel Holzinger.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:37e585d001cff6b9",
@@ -3601,7 +3614,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wenn Carolin und Andreas Obieglo gemeinsam auf der Bühne stehen, entfaltet sich die vertraute Wärme ihrer Songs: bewegende Texte, hymnische Klangflächen und stille ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:83ce07502ea5e1dc",
@@ -3614,7 +3627,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Flucht aus Normalien. Gute Adresse: Hermann Hesse. Ein Programm über den meistgelesenen deutschen Autor aus Calw an der Nagold im Wortkino - Dein Theater.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6208617369d7e4e1",
@@ -3627,7 +3640,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Reise in die Vergangenheit der Stuttgarter Feuerwehr. Ausgestellt sind neben historischen Exponaten nahezu 30 Feuerwehrfahrzeuge, beginnend in den 1940 er Jahren ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:03334c936ba4fbc7",
@@ -3640,7 +3653,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0e973374940eb133",
@@ -3653,7 +3666,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bei uns gibt es Informationen und Kontakt zu Beratung und Hilfe rund um Linux als Alternative zu Windows.\nWir wollen Rechner erhalten und möglichst lange benutzbar ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2c173f1283630104",
@@ -3666,7 +3679,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f609d29a847eee75",
@@ -3679,7 +3692,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:df6dcaa1ccd696e7",
@@ -3692,7 +3705,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
+    },
+    {
+      "id": "stuttgart-official:0ddda87ded04a4c0",
+      "source": "stuttgart-official",
+      "title": "Baseball: Stuttgart Reds - Gauting Indians",
+      "start": "2026-08-01T17:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/baseball-stuttgart-reds-gauting-indians-531009?p=sig%3Add9wetzvEY0aqac_%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486391",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eine Begegnung des Wildcard Race Süd, Herren.",
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:cd9c639356036762",
@@ -3705,7 +3731,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Taucht ein in die geheimnisvolle Welt der Fledermäuse! Ort: Weilimdorf",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:fceb0142d7fb3b2d",
@@ -3718,7 +3744,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Erlebt einen wunderbaren Abend mit dem charismatischen US-Amerikaner. Er wird Euch verzaubern mit seiner wunderbaren und einzigartigen Stimme. Kevin Tarte – With a ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ce3e60723aeaf0ea",
@@ -3731,7 +3757,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:28697da679041463",
@@ -3744,7 +3770,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5f0b64f39915376a",
@@ -3757,7 +3783,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1cdfe7455e674f9a",
@@ -3770,7 +3796,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d3e96c4cbfa00172",
@@ -3783,7 +3809,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0d139d2d5c7506aa",
@@ -3796,7 +3822,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:892d374285a3455e",
@@ -3809,7 +3835,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Unter der Leitung von Bernd Scharfenberger",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3c18889ce9432a89",
@@ -3822,7 +3848,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c2aa1fbc9c14e25f",
@@ -3835,7 +3861,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8213742b923f5199",
@@ -3848,7 +3874,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Heimatgeschichtliche Ausstellung Untertürkheim, Luginsland und Rotenberg im Ortsmuseum Untertürkheim/Rotenberg",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bb12ac2b8deeb6a7",
@@ -3861,7 +3887,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sonderausstellung im Ortsmuseum im Alten Schulhaus, Rotenberg.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6c64f25b732965d8",
@@ -3874,7 +3900,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne zeigt im Höhenpark Killesberg in Stuttgart das Figurentheater „Von den Socken – Ein Waschmaschinenmärchen“. Gemeinsam mit Socke ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a6e327768a837031",
@@ -3887,7 +3913,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3d6281b292951c5f",
@@ -3900,7 +3926,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Drei exklusive Abende im Rahmen des Sommergastspiels: Wommy lädt befreundete Künstler*innen ein, die mit der laufenden Show nichts zu tun haben. Im Mittelpunkt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4cf0d10701d901ce",
@@ -3913,7 +3939,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f67d018e7033128e",
@@ -3926,7 +3952,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Andacht, die ohne gesprochenes Wort auskommt.\nmit Liedern zum Mitsingen und guter Orgelmusik",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f6e4b56bac44bd14",
@@ -3939,7 +3965,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Slaughter To Prevail - LKA Longhorn",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:63e0bba470ca83c5",
@@ -3952,7 +3978,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d3b4558ffd46a4a3",
@@ -3965,7 +3991,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Während des Aufstiegs über 172 Stufen auf den Stuttgarter Rathausturm informiert ein Mitarbeiter vom Haupt- und Personalamt über den Turm und das Glockenspiel, das ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5f55efbb7c06363d",
@@ -3978,7 +4004,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:591bb839ce8c3b73",
@@ -3991,7 +4017,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ökumenisches Friedensgebet in St. Elisabeth",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dbaaa56972db3c40",
@@ -4004,7 +4030,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:54e1c9e6caace347",
@@ -4017,7 +4043,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:690e1f2938bae6fd",
@@ -4030,7 +4056,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:30aeabe975c89c60",
@@ -4043,7 +4069,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "mit anschließendem Beisammensein",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:15c2331daf27263b",
@@ -4056,7 +4082,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "mit anschließendem Beisammensein",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:02be55519dee2033",
@@ -4069,7 +4095,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Erfindung des ersten Planetariumsprojektors feiert seinen hundertsten Jahrestag. Im Auftrag des Deutschen Museums in München entwickelte die Firma Carl Zeiss in ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:decb6c9da51e3d4f",
@@ -4082,7 +4108,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesfeier im Altenheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:129a04a336bf07ec",
@@ -4095,7 +4121,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Elektronische Musik mit Live Visuals: Himmlisch",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:714cc39b2ed1b2eb",
@@ -4108,7 +4134,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gibt es Leben im All?\nWohl keine andere Frage, die wir über das Universum stellen, beschäftigt uns so stark.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5f34b84a5dad670d",
@@ -4121,7 +4147,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Stadtarchiv ist ein Gedächtnis der Stadtgesellschaft und das Zentrum für Stadtgeschichte.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:34a8ed30795e076e",
@@ -4134,7 +4160,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Paar zieht um",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:62d928f6f8eeef28",
@@ -4147,7 +4173,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Count Baischy Swingtett tritt den Beweis an, dass Humor und hohes musikalisches Niveau sich nicht ausschließen müssen!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c36ddee3a2fc7cd1",
@@ -4160,7 +4186,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Verein Herzschlag der Jugend veranstaltet mit LBC Summertime 2026 ein internationales Urban-Dance-Festival im Kunstverein Wagenhalle iniitiert von Herzschlag der ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:651f4965c1ac9a99",
@@ -4173,7 +4199,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Für den Konzertabend beim Renitenztheater-Openair haben sie ein besonderes Respertoire ausgewählt, das ihre Liebe zu Soul, Jazz und Folk vereint.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f15694b5ea6d0373",
@@ -4186,7 +4212,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e131e9dad61fb4ff",
@@ -4199,7 +4225,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:64f721abe4fb3b2f",
@@ -4212,7 +4238,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wort Gottes Feier",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:517c57e082bdbae4",
@@ -4225,7 +4251,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:708dcf4e4e49bb3a",
@@ -4238,7 +4264,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Regionalliga Südwest, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:16f798a9e6f9f771",
@@ -4251,7 +4277,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b6fbadd2b8d5263d",
@@ -4264,7 +4290,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9ad1d6667177d422",
@@ -4277,7 +4303,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein zeitgenössisches Dark-Pop-Ritual getragen von einer außergewöhnlichen Countertenor-Stimme.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7bfddd6683d14ef6",
@@ -4290,7 +4316,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein mitreißender Strom aus Worten und Tönen\nVier Schauspieler*innen suchen auf dem Terrain der Dichtung, Musik, Philosophie und alltäglichen Unterhaltung nach dem ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8111dded444fdb2c",
@@ -4303,7 +4329,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gut erhaltene Kleidung in entspannter Atmosphäre im foodsharing-Café Raupe Immersatt tauschen und neue Lieblingsstücke entdecken. Bringen Sie mit, was nicht mehr ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f32d97322bc81ded",
@@ -4316,7 +4342,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Testspiel als Saisonvorbereitung",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ff38323d48d39cd3",
@@ -4329,7 +4355,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit ihrem unverwechselbaren Instrumentarium aus Flaschen, Kästen und allem, was der Flüssigkeitenaufbewahrungsfachhandel hergibt, feiern Andreas, Fritze und Möhre ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:dc5880f02fdbc2dc",
@@ -4342,7 +4368,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:efca97edf9930981",
@@ -4355,7 +4381,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0dea5859f9b0d415",
@@ -4368,7 +4394,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "An dem Spieltag finden 12 Spiele der 2. Bundesliga statt.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0bbb14ab717c3bad",
@@ -4381,7 +4407,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:29b7f721ce307ddc",
@@ -4394,7 +4420,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2903fe78b2c33613",
@@ -4407,7 +4433,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Erinnerungsort Hotel Silber bietet eine öffentliche Führung durch die Sonderausstellung \"Rechtsextremer Terror\" an. Der Rundgang beleuchtet ausgewählte Fälle ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8e45efa76d8e2d1e",
@@ -4420,7 +4446,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:284144cf6845ec4b",
@@ -4433,7 +4459,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Es verschmelzen extrem tanzbarer Jazz, Rock, Blues, Reggae und Funk mit Lyrics im Dialekt, die in ihrer lautmalerischen Verspieltheit tatsächlich häufig wie Gedichte ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c5762a38e7b9f88d",
@@ -4446,7 +4472,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Beim Quatsch Kinder Club geht es um spielerische Improvisation, Kreativität, Gruppengefühl, Ausdruckskraft und Bewegung. Eine Veranstaltung für Kinder ab 8 Jahre ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c1cbc8c097167bfe",
@@ -4459,7 +4485,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit Tathea auf der Bühne. Der perfekte Kurs für Kinder, die gerne tanzen und im Rampenlicht stehen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5963988d6ea91b85",
@@ -4472,7 +4498,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Infoveranstaltung wird von der vom Gesundheitsamt beauftragten Fachfirma als Online-Termin jeden zweiten Montag von Juni bis September ab 19 Uhr angeboten. Nach ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:9ec12c2e0bbbfb60",
@@ -4485,7 +4511,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welcome Club bringt monatlich junge Menschen in Stuttgart zusammen. Jeden Monat gibt es ein neues und spannendes Thema, auf das man sich freuen kann.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:bcb816534ca297a0",
@@ -4498,7 +4524,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationales Tanzsportfestival.\nDie German Open Championships (GOC) sind die größte Tanzsportveranstaltung Europas im Amateurbereich, sowohl was die ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:300394f7db59aa29",
@@ -4511,7 +4537,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe: Bilderbuchshow in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:0c2174279603f765",
@@ -4524,7 +4550,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Isabel Schmier präsentiert sommerliche Gedichte von Hermann Hesse und weiteren Dichterinnen und Dichtern.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:97f7b6d2b677d890",
@@ -4537,7 +4563,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gelesen von Rudolf Guckelsberger in der Reihe Jahreszeitenlesung",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:54fe293c40f1c214",
@@ -4550,7 +4576,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne präsentiert im Höhenpark Killesberg in Stuttgart das Figurentheater „Was macht die Maus im Wichtelhaus“. Im kleinen Wichteldorf ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:7faae2fde5111929",
@@ -4563,7 +4589,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Öffentliche Führung für Eltern mit Babys im Haus der Geschichte",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:92d329a65d2b8960",
@@ -4576,7 +4602,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Offener Treff für alle, die Lust und Zeit haben - einfach in der Stadtteilbibliothek Weilimdorf vorbeikommen!",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:04a846afb09dde3b",
@@ -4589,7 +4615,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesestunde für Erwachsene in der Stadtteilbibliothek Untertürkheim.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:af937e57f7c0e03e",
@@ -4602,20 +4628,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sonnenfänger-DIY & Buch in einer Streichholzschachtel",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
-    },
-    {
-      "id": "stuttgart-official:7a8fb6b0d64e1a8b",
-      "source": "stuttgart-official",
-      "title": "Latin Jazz Festival 2026",
-      "start": "2026-08-13T18:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/latin-jazz-festival-2026-531002?p=sig%3AjCb70l_36AuBOeUZ%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486344",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Sechs Konzerte. Drei Abende. Ein Festival voller Leidenschaft. \nZum neunten Mal vereint „Stuttgart Mi Amor“ die Welten von Latin und Jazz und feiert das, was uns ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:d30e827e59b3e023",
@@ -4628,7 +4641,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Konzert mit Hans Fickelscher (perc, voc) und Mazen Mohsen (git, voc, oud)",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:6b903b2f7a429949",
@@ -4641,7 +4654,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dem Kurs in der Stadtteilbibliothek Neugereut wird erklärt wie das Internet und die Benutzer-PCs der Stadtbibliothek funktionieren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:700bcaa8836621c1",
@@ -4654,7 +4667,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gemeinsam mit Vroni erwartet Euch eine bunte Tomatenverkostung mit außergewöhnlichen Sorten, spannender Saatgutbörse und jede Menge Wissensaustausch rund um den ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ed726427f8bc5d8a",
@@ -4667,7 +4680,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie haben Interesse an einer Solaranlage? Die SolarScouts Stuttgart zeigen Ihnen den Weg zu Ihrer eigenen PV-Anlage auf und beantworten Ihre Fragen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ee2324ff2ec7b824",
@@ -4680,7 +4693,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Regelmäßiger Spieletreff",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:8e053e6bc143de67",
@@ -4693,7 +4706,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:3476e51508bef52f",
@@ -4706,7 +4719,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:990431b12e64dd96",
@@ -4719,7 +4732,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:1dfc937b8c87f426",
@@ -4732,7 +4745,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Schwoof über Gaisburg von und im Waldheim Gaisburg e.V. - Tanzen für alle über den Dächern von Gaisburg.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:c04a35588d9ce5e8",
@@ -4745,7 +4758,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bei der 7. Auflage des Turniers werden sechs Frauen- und Herrenteams spielen.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:2a8ca5eaafdd2dcc",
@@ -4758,7 +4771,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Anmeldung zum Gottesdienst ist nicht mehr erforderlich.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:83c6766014127f8c",
@@ -4771,7 +4784,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:931233b79c34ce95",
@@ -4784,7 +4797,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:f2c8dd6745b516e9",
@@ -4797,7 +4810,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e97f629c6d4a2970",
@@ -4810,7 +4823,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
+    },
+    {
+      "id": "stuttgart-official:33602158ee65663a",
+      "source": "stuttgart-official",
+      "title": "Fußball: VfB Stuttgart (U19) - FC Ingolstadt 04 (U19)",
+      "start": "2026-08-15T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fussball-vfb-stuttgart-u19-fc-ingolstadt-04-u19-531038?p=sig%3AXqtp_C6GDf3rA1TP%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486424",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:e9920ea375dda9cf",
@@ -4823,7 +4849,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:b96631f7428e9276",
@@ -4836,7 +4862,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:521a45e033f0923a",
@@ -4849,7 +4875,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Organist:innen der Stiftsmusik stellen Ihnen ihren Arbeitsplatz auf der Orgelempore vor: die große Mühleisen-Orgel der Stiftskirche mit 81 Registern, 5.366 ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:05edfe6bddde8ac9",
@@ -4862,7 +4888,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a8f1c75581ffad72",
@@ -4875,7 +4901,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die AnStifter laden ein zu zwei Führungen durch die Ausstellung von und mit Dagmar Buntins in der Steigkirche.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:4dd8bb902a401101",
@@ -4888,7 +4914,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Konzert, Jazz, Funk, Soul, KlangKlub e.V.",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:ff8c7239576c12e7",
@@ -4901,7 +4927,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:a7ac35432ceb20d3",
@@ -4914,7 +4940,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Drei exklusive Abende im Rahmen des Sommergastspiels: Wommy lädt befreundete Künstler*innen ein, die mit der laufenden Show nichts zu tun haben. Im Mittelpunkt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:5e6f1a9ea90e8ae6",
@@ -4927,7 +4953,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Drei exklusive Abende im Rahmen des Sommergastspiels: Wommy lädt befreundete Künstler*innen ein, die mit der laufenden Show nichts zu tun haben. Im Mittelpunkt ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     },
     {
       "id": "stuttgart-official:19785e47ecada76b",
@@ -4940,7 +4966,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Aktuell warten in Stuttgarter Grundschulen zahlreiche Kinder auf Unterstützung durch einen Menschen, der ihnen als Mentorin, als Mentor Zeit und Chancen schenkt. ...",
-      "discovered_at": "2026-07-20T07:50:25.547560Z"
+      "discovered_at": "2026-07-20T18:34:31.386385Z"
     }
   ]
 }
