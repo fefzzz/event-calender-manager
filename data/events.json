@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T07:31:56.671423Z",
+  "updated_at": "2026-07-23T07:29:15.283820Z",
   "count": 3,
   "events": [
     {
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Steuerlich kann es sinnvoll sein, Immobilien bereits zu Lebzeiten an die nächste Generation zu übertragen. Dies gilt allerdings nur unter bestimmten Voraussetzungen. ...",
-      "discovered_at": "2026-07-22T07:31:56.370595Z"
+      "discovered_at": "2026-07-23T07:29:15.022682Z"
     },
     {
       "id": "stuttgart-official:6f562a8eb1b60755",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Thema Künstliche Intelligenz (KI) ist allgegenwertig und begegnet uns in vielen Lebensbereichen. \nWelche Chancen bietet KI, um unsere Lebensqualität zu steigern? ...",
-      "discovered_at": "2026-07-22T07:31:56.370595Z"
+      "discovered_at": "2026-07-23T07:29:15.022682Z"
     },
     {
       "id": "stuttgart-official:d0a270aff82ca5aa",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-07-22T07:31:56.370595Z"
+      "discovered_at": "2026-07-23T07:29:15.022682Z"
     }
   ]
 }
