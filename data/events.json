@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-29T07:39:20.760596Z",
-  "count": 3,
+  "updated_at": "2026-07-30T07:31:46.049910Z",
+  "count": 2,
   "events": [
-    {
-      "id": "stuttgart-official:2c2053cad595ce0c",
-      "source": "stuttgart-official",
-      "title": "Lebzeitige Übertragungen von Immobilienvermögen",
-      "start": "2026-07-29T15:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/lebzeitige-uebertragungen-von-immobilienvermoegen-519296?p=sig%3AirhBWn_qmsuhoeVX%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C444412",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Steuerlich kann es sinnvoll sein, Immobilien bereits zu Lebzeiten an die nächste Generation zu übertragen. Dies gilt allerdings nur unter bestimmten Voraussetzungen. ...",
-      "discovered_at": "2026-07-29T07:39:20.405999Z"
-    },
     {
       "id": "stuttgart-official:6f562a8eb1b60755",
       "source": "stuttgart-official",
@@ -26,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Thema Künstliche Intelligenz (KI) ist allgegenwertig und begegnet uns in vielen Lebensbereichen. \nWelche Chancen bietet KI, um unsere Lebensqualität zu steigern? ...",
-      "discovered_at": "2026-07-29T07:39:20.405999Z"
+      "discovered_at": "2026-07-30T07:31:45.840876Z"
     },
     {
       "id": "stuttgart-official:d0a270aff82ca5aa",
@@ -39,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-07-29T07:39:20.405999Z"
+      "discovered_at": "2026-07-30T07:31:45.840876Z"
     }
   ]
 }
