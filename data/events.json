@@ -1,32 +1,19 @@
 {
-  "updated_at": "2026-07-31T07:47:34.561652Z",
-  "count": 2,
+  "updated_at": "2026-08-01T07:24:47.934489Z",
+  "count": 1,
   "events": [
     {
-      "id": "stuttgart-official:6f562a8eb1b60755",
-      "source": "stuttgart-official",
-      "title": "Künstliche Intelligenz entdecken - alltagsnah und praktisch",
-      "start": "2026-07-31T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kuenstliche-intelligenz-entdecken-alltagsnah-und-praktisch-530721?p=sig%3AQrWz9t-tKhOTWO59%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486079",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Das Thema Künstliche Intelligenz (KI) ist allgegenwertig und begegnet uns in vielen Lebensbereichen. \nWelche Chancen bietet KI, um unsere Lebensqualität zu steigern? ...",
-      "discovered_at": "2026-07-31T07:47:34.296630Z"
-    },
-    {
-      "id": "stuttgart-official:d0a270aff82ca5aa",
+      "id": "stuttgart-official:5a61509a6e182579",
       "source": "stuttgart-official",
       "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-07-31T09:00:00+02:00",
+      "start": "2026-08-14T09:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-07-31T07:47:34.296630Z"
+      "discovered_at": "2026-08-01T07:24:47.647182Z"
     }
   ]
 }
