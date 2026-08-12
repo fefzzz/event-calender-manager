@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T05:50:18.267361Z",
-  "count": 1,
+  "updated_at": "2026-08-12T06:09:46.477918Z",
+  "count": 2,
   "events": [
     {
       "id": "stuttgart-official:5a61509a6e182579",
@@ -13,7 +13,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-11T05:50:17.988244Z"
+      "discovered_at": "2026-08-12T06:09:46.169870Z"
+    },
+    {
+      "id": "stuttgart-official:9fd16c2ef98e173c",
+      "source": "stuttgart-official",
+      "title": "Nischen-KI: Warum einfach, wenn es auch spezialisiert geht?",
+      "start": "2026-08-21T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/nischen-ki-warum-einfach-wenn-es-auch-spezialisiert-geht-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
+      "discovered_at": "2026-08-12T06:09:46.169870Z"
     }
   ]
 }
