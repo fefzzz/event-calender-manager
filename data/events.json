@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-14T06:09:24.481565Z",
+  "updated_at": "2026-08-15T05:19:44.794246Z",
   "count": 2,
   "events": [
-    {
-      "id": "stuttgart-official:5a61509a6e182579",
-      "source": "stuttgart-official",
-      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-08-14T09:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-14T06:09:22.180182Z"
-    },
     {
       "id": "stuttgart-official:9fd16c2ef98e173c",
       "source": "stuttgart-official",
@@ -26,7 +13,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-08-14T06:09:22.180182Z"
+      "discovered_at": "2026-08-15T05:19:44.611969Z"
+    },
+    {
+      "id": "stuttgart-official:71990930ad162c3a",
+      "source": "stuttgart-official",
+      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
+      "start": "2026-08-28T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
+      "discovered_at": "2026-08-15T05:19:44.611969Z"
     }
   ]
 }
