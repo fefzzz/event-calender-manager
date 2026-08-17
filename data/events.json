@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T05:22:39.634377Z",
+  "updated_at": "2026-08-17T05:30:31.858999Z",
   "count": 2,
   "events": [
     {
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-08-16T05:22:39.383197Z"
+      "discovered_at": "2026-08-17T05:30:31.615520Z"
     },
     {
       "id": "stuttgart-official:71990930ad162c3a",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-16T05:22:39.383197Z"
+      "discovered_at": "2026-08-17T05:30:31.615520Z"
     }
   ]
 }
