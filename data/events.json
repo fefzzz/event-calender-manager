@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T05:33:35.933058Z",
-  "count": 1,
+  "updated_at": "2026-08-25T05:26:22.617068Z",
+  "count": 2,
   "events": [
     {
       "id": "stuttgart-official:71990930ad162c3a",
@@ -13,7 +13,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-24T05:33:35.621718Z"
+      "discovered_at": "2026-08-25T05:26:22.269652Z"
+    },
+    {
+      "id": "stuttgart-official:362e24117922e2e8",
+      "source": "stuttgart-official",
+      "title": "KI-Tage – Künstliche Intelligenz im Kontext der digitalen Lernbegleitung erkunden",
+      "start": "2026-09-23T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/ki-tage-kuenstliche-intelligenz-im-kontext-der-digitalen-lernbegleitung-erkunden-532416?p=sig%3AQxVAyujCaf36_U3j%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488235",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
+      "discovered_at": "2026-08-25T05:26:22.269652Z"
     }
   ]
 }

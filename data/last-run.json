@@ -1,8 +1,8 @@
 {
-  "ran_at": "2026-08-24T05:33:35.933058Z",
+  "ran_at": "2026-08-25T05:26:22.617068Z",
   "new": 0,
   "skipped": 9,
-  "total_in_horizon": 1,
+  "total_in_horizon": 2,
   "errors": [
     {
       "source": "eventbrite-stuttgart",
