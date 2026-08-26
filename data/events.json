@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T05:26:22.617068Z",
-  "count": 2,
+  "updated_at": "2026-08-26T05:29:00.518701Z",
+  "count": 3,
   "events": [
     {
       "id": "stuttgart-official:71990930ad162c3a",
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-25T05:26:22.269652Z"
+      "discovered_at": "2026-08-26T05:29:00.160700Z"
     },
     {
       "id": "stuttgart-official:362e24117922e2e8",
@@ -26,7 +26,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-08-25T05:26:22.269652Z"
+      "discovered_at": "2026-08-26T05:29:00.160700Z"
+    },
+    {
+      "id": "stuttgart-official:dc4e6d7cc917b293",
+      "source": "stuttgart-official",
+      "title": "Minimesse im Rahmen der KI-Tage der Fachstelle für digitale Teilhabe im Alter",
+      "start": "2026-09-24T10:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/minimesse-im-rahmen-der-ki-tage-der-fachstelle-fuer-digitale-teilhabe-im-alter-532477?p=sig%3A4RlSKlNBFx4cLVAP%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488301",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
+      "discovered_at": "2026-08-26T05:29:00.160700Z"
     }
   ]
 }
