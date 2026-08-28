@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T16:03:04.535840Z",
+  "updated_at": "2026-08-28T17:06:54.537491Z",
   "count": 4,
   "events": [
     {
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-27T16:03:04.260156Z"
+      "discovered_at": "2026-08-28T17:06:54.249139Z"
     },
     {
       "id": "stuttgart-official:362e24117922e2e8",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-08-27T16:03:04.260156Z"
+      "discovered_at": "2026-08-28T17:06:54.249139Z"
     },
     {
       "id": "stuttgart-official:dc4e6d7cc917b293",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-08-27T16:03:04.260156Z"
+      "discovered_at": "2026-08-28T17:06:54.249139Z"
     },
     {
       "id": "stuttgart-official:3ccf663c869bda2b",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-08-27T16:03:04.260156Z"
+      "discovered_at": "2026-08-28T17:06:54.249139Z"
     }
   ]
 }
