@@ -1,7 +1,7 @@
 {
-  "ran_at": "2026-08-29T11:26:54.363328Z",
-  "new": 1,
-  "skipped": 8,
+  "ran_at": "2026-08-30T10:13:42.317134Z",
+  "new": 0,
+  "skipped": 9,
   "total_in_horizon": 5,
   "errors": [
     {
