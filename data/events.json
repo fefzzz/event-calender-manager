@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T09:33:50.255201Z",
-  "count": 7,
+  "updated_at": "2026-09-21T10:21:38.914622Z",
+  "count": 9,
   "events": [
     {
       "id": "stuttgart-official:362e24117922e2e8",
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:dc4e6d7cc917b293",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:3ccf663c869bda2b",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:1dd8166d4f92f2a8",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:465a19796e220cd7",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Süddeutschlands größte Fachmesse für Land-, Forst- und Ernährungswirtschaft lädt 2026 wieder dazu ein, moderne Landwirtschaft in all ihren Facetten hautnah zu ...",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:5b26f8722626150f",
@@ -78,7 +78,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Giuseppe Pranzo, Fachanwalt für Erbrecht, informiert über die Übergabe von Immobilien, die steuerrechtlichen Konsequenzen und die notwendige Abstimmung mit ...",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
+    },
+    {
+      "id": "stuttgart-official:2f89faf62dd64d61",
+      "source": "stuttgart-official",
+      "title": "BrainBites - die schlaue Mittagspause im Oktober für Frauen im Business: „Grenzen als Chance – und was wir von Yoga lernen können“",
+      "start": "2026-10-09T10:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/brainbites-die-schlaue-mittagspause-im-oktober-fuer-frauen-im-business-grenzen-als-chance-und-was-wir-von-yoga-lernen-koennen-534287?p=sig%3ARgmnE9vXwaWsJhRg%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C491788",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -91,7 +104,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-09-20T09:33:49.960704Z"
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
+    },
+    {
+      "id": "stuttgart-official:83b607a33a83d504",
+      "source": "stuttgart-official",
+      "title": "Der KI-Werkzeugkasten für die Barrierefreiheit - Modul 3",
+      "start": "2026-10-20T07:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/der-ki-werkzeugkasten-fuer-die-barrierefreiheit-modul-3-532492?p=sig%3AbbvhDi4FglV8sqHg%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488438",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Online-Workshop",
+      "discovered_at": "2026-09-21T10:21:38.594759Z"
     }
   ]
 }
