@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-09-25T09:57:57.829865Z",
-  "count": 12,
+  "updated_at": "2026-09-26T09:40:17.084864Z",
+  "count": 11,
   "events": [
-    {
-      "id": "stuttgart-official:a6288d9609fedefa",
-      "source": "stuttgart-official",
-      "title": "Wie KI die Geschichte verzerrt",
-      "start": "2026-09-25T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wie-ki-die-geschichte-verzerrt-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
-    },
-    {
-      "id": "stuttgart-official:0766637d483093d4",
-      "source": "stuttgart-official",
-      "title": "KI-Tage – Künstliche Intelligenz im Kontext der digitalen Lernbegleitung erkunden",
-      "start": "2026-09-25T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/ki-tage-kuenstliche-intelligenz-im-kontext-der-digitalen-lernbegleitung-erkunden-532416?p=sig%3AQxVAyujCaf36_U3j%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488235",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Welche Rolle spielt Künstliche Intelligenz (KI) bereits heute in der digitalen Lernbegleitung? Wie lässt sich diese verantwortungsvoll einsetzen, um digitale ...",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
-    },
-    {
-      "id": "stuttgart-official:1dd8166d4f92f2a8",
-      "source": "stuttgart-official",
-      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-09-25T09:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
-    },
     {
       "id": "stuttgart-official:465a19796e220cd7",
       "source": "stuttgart-official",
@@ -52,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Süddeutschlands größte Fachmesse für Land-, Forst- und Ernährungswirtschaft lädt 2026 wieder dazu ein, moderne Landwirtschaft in all ihren Facetten hautnah zu ...",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:5b26f8722626150f",
@@ -65,7 +26,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Giuseppe Pranzo, Fachanwalt für Erbrecht, informiert über die Übergabe von Immobilien, die steuerrechtlichen Konsequenzen und die notwendige Abstimmung mit ...",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
+    },
+    {
+      "id": "stuttgart-official:cfa9df912f2ea58c",
+      "source": "stuttgart-official",
+      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
+      "start": "2026-10-09T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:2f89faf62dd64d61",
@@ -78,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:5bac0dcfe731bb29",
@@ -91,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -104,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:83b607a33a83d504",
@@ -117,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -130,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -143,7 +117,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
+    },
+    {
+      "id": "stuttgart-official:794703881f069649",
+      "source": "stuttgart-official",
+      "title": "Wie KI die Geschichte verzerrt",
+      "start": "2026-10-23T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wie-ki-die-geschichte-verzerrt-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -156,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-09-25T09:57:57.517109Z"
+      "discovered_at": "2026-09-26T09:40:16.759036Z"
     }
   ]
 }
