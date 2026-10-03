@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-02T10:50:43.447077Z",
+  "updated_at": "2026-10-03T10:10:30.244011Z",
   "count": 10,
   "events": [
     {
-      "id": "stuttgart-official:e67421b912b7c360",
+      "id": "stuttgart-official:44053901cb8d17b5",
       "source": "stuttgart-official",
       "title": "Landwirtschaftliches Hauptfest",
-      "start": "2026-10-02T07:00:00+02:00",
+      "start": "2026-10-03T07:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/landwirtschaftliches-hauptfest-529000?p=sig%3AdiPVOs4XtMWCkFiX%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C483790",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Süddeutschlands größte Fachmesse für Land-, Forst- und Ernährungswirtschaft lädt 2026 wieder dazu ein, moderne Landwirtschaft in all ihren Facetten hautnah zu ...",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:cfa9df912f2ea58c",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:2f89faf62dd64d61",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:5bac0dcfe731bb29",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:83b607a33a83d504",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:794703881f069649",
@@ -117,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -130,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-02T10:50:43.104562Z"
+      "discovered_at": "2026-10-03T10:10:29.876389Z"
     }
   ]
 }
