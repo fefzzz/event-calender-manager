@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:42:05.148876Z",
+  "updated_at": "2026-10-07T11:28:31.596804Z",
   "count": 9,
   "events": [
     {
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:2f89faf62dd64d61",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:5bac0dcfe731bb29",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:83b607a33a83d504",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:794703881f069649",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -117,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-06T11:42:04.799008Z"
+      "discovered_at": "2026-10-07T11:28:31.321659Z"
     }
   ]
 }
