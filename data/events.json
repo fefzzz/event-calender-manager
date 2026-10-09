@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T11:44:26.132869Z",
-  "count": 9,
+  "updated_at": "2026-10-09T11:37:21.655134Z",
+  "count": 11,
   "events": [
     {
       "id": "stuttgart-official:cfa9df912f2ea58c",
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:2f89faf62dd64d61",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:5bac0dcfe731bb29",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:83b607a33a83d504",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:794703881f069649",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -117,7 +117,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-08T11:44:25.845502Z"
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
+    },
+    {
+      "id": "stuttgart-official:a885079818505fe6",
+      "source": "stuttgart-official",
+      "title": "Philosophisches Café x Prof. Dr. Martin Uhl: Vertrauen in KI - Ein zweischneidiges Schwert",
+      "start": "2026-11-07T09:30:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/philosophisches-caf-x-prof.dr.martin-uhl-vertrauen-in-ki-ein-zweischneidiges-schwert-534955?p=sig%3Ayn9XNlgYPmb7ZXLs%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C492297",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
+    },
+    {
+      "id": "stuttgart-official:e82cfce234a032a8",
+      "source": "stuttgart-official",
+      "title": "Kinder-Uni: Vom Bild zur Erkenntnis! Bilderkennung mit Computern",
+      "start": "2026-11-07T10:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kinder-uni-vom-bild-zur-erkenntnis-bilderkennung-mit-computern-535320?p=sig%3AxvQcdETaiZFJxkNo%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C492726",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
+      "discovered_at": "2026-10-09T11:37:21.372319Z"
     }
   ]
 }
