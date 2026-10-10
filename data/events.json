@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-09T11:37:21.655134Z",
-  "count": 11,
+  "updated_at": "2026-10-10T10:55:07.551043Z",
+  "count": 10,
   "events": [
-    {
-      "id": "stuttgart-official:cfa9df912f2ea58c",
-      "source": "stuttgart-official",
-      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-10-09T09:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
-    },
-    {
-      "id": "stuttgart-official:2f89faf62dd64d61",
-      "source": "stuttgart-official",
-      "title": "BrainBites - die schlaue Mittagspause im Oktober für Frauen im Business: „Grenzen als Chance – und was wir von Yoga lernen können“",
-      "start": "2026-10-09T10:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/brainbites-die-schlaue-mittagspause-im-oktober-fuer-frauen-im-business-grenzen-als-chance-und-was-wir-von-yoga-lernen-koennen-534287?p=sig%3ARgmnE9vXwaWsJhRg%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C491788",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Online-Input für Frauen, die in der Mittagspause gerne ein paar hilfreiche Impulse für ihren Arbeitsalltag mitnehmen wollen",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
-    },
     {
       "id": "stuttgart-official:5bac0dcfe731bb29",
       "source": "stuttgart-official",
@@ -39,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:0f23b0aa8ff89219",
@@ -52,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:83b607a33a83d504",
@@ -65,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -78,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -91,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:794703881f069649",
@@ -104,7 +78,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
+    },
+    {
+      "id": "stuttgart-official:76ce52380fd7a402",
+      "source": "stuttgart-official",
+      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
+      "start": "2026-10-23T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -117,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:a885079818505fe6",
@@ -130,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     },
     {
       "id": "stuttgart-official:e82cfce234a032a8",
@@ -143,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
-      "discovered_at": "2026-10-09T11:37:21.372319Z"
+      "discovered_at": "2026-10-10T10:55:07.165855Z"
     }
   ]
 }
