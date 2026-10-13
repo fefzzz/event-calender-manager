@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-12T12:40:42.225183Z",
-  "count": 10,
+  "updated_at": "2026-10-13T12:25:30.120446Z",
+  "count": 9,
   "events": [
-    {
-      "id": "stuttgart-official:0f23b0aa8ff89219",
-      "source": "stuttgart-official",
-      "title": "KI in der Grundschule",
-      "start": "2026-10-12T13:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/ki-in-der-grundschule-529835?p=sig%3AjQwQ5Qcl0cnY459e%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484779",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Kostenloses Lehrkräfte-Webinar",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
-    },
     {
       "id": "stuttgart-official:83b607a33a83d504",
       "source": "stuttgart-official",
@@ -26,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Online-Workshop",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:317de13ed7a5c5f2",
@@ -39,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Glitchy Networks von Marta Haladzhun verbindet Streichquartett, Elektronik und interaktive LED-Lichtinstallation zu einem audiovisuellen Netzwerk.",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:b789a0065ef49092",
@@ -52,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Podiumsgespräch zur Ausstellung \"Echt Jetzt?! Fotografien. Retusche. Deepfakes.\"",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:794703881f069649",
@@ -65,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:76ce52380fd7a402",
@@ -78,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:b692e3d5c0c7a336",
@@ -91,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:a885079818505fe6",
@@ -104,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:e82cfce234a032a8",
@@ -117,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     },
     {
       "id": "stuttgart-official:dffb5a9b0feebddc",
@@ -130,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wer über ein Masterstudium im Bereich Finance nachdenkt, kann sich beim Infoabend einen ersten Eindruck vom Masterstudiengang Finance an der Universität Hohenheim ...",
-      "discovered_at": "2026-10-12T12:40:41.972462Z"
+      "discovered_at": "2026-10-13T12:25:29.678361Z"
     }
   ]
 }
