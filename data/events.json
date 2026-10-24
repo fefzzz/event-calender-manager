@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-10-23T09:42:43.819924Z",
-  "count": 12,
+  "updated_at": "2026-10-24T09:15:21.642295Z",
+  "count": 10,
   "events": [
-    {
-      "id": "stuttgart-official:cc73c43db79e987f",
-      "source": "stuttgart-official",
-      "title": "Künstliche Intelligenz und der Weltuntergang: Eine Bestandsaufnahme",
-      "start": "2026-10-23T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kuenstliche-intelligenz-und-der-weltuntergang-eine-bestandsaufnahme-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
-    },
-    {
-      "id": "stuttgart-official:76ce52380fd7a402",
-      "source": "stuttgart-official",
-      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-10-23T09:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
-    },
-    {
-      "id": "stuttgart-official:b692e3d5c0c7a336",
-      "source": "stuttgart-official",
-      "title": "Treasures: Jubiläumsausstellung",
-      "start": "2026-10-23T22:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/treasures-jubilaeumsausstellung-534140?p=sig%3AzwAhzl3UVBlt-_X7%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C491620",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Graphothek Stuttgart feiert 50 Jahre gelebte Kunstleidenschaft. Seit ihrer\nGründung 1976 steht sie für eine klare Vision: zeitgenössische Kunst für ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
-    },
     {
       "id": "stuttgart-official:f9459946798a0405",
       "source": "stuttgart-official",
@@ -52,7 +13,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Heidelberger Akademie der Wissenschaften lädt gemeinsam mit der Landeshauptstadt Stuttgart und der Universität Stuttgart zum öffentlichen Vortrag „Kybernetik, ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
+    },
+    {
+      "id": "stuttgart-official:c29d7d9b88f45005",
+      "source": "stuttgart-official",
+      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
+      "start": "2026-11-06T10:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:a885079818505fe6",
@@ -65,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:e82cfce234a032a8",
@@ -78,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:dffb5a9b0feebddc",
@@ -91,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wer über ein Masterstudium im Bereich Finance nachdenkt, kann sich beim Infoabend einen ersten Eindruck vom Masterstudiengang Finance an der Universität Hohenheim ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:f0a09b431f65fa88",
@@ -104,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Desinformation, Wahrnehmung und künstliche Intelligenz erkennen und verstehen (Webseminar)",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:cc5b179cb002b337",
@@ -117,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:519829bbaf39e522",
@@ -130,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Reihe Diversität in Kirche und Gesellschaft",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:6645ca0415acb9cb",
@@ -143,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Susanne Hindennach zeigt, welche unsichtbare menschliche Arbeit hinter Künstlicher Intelligenz steckt und warum „Data Work“ für seriöse Forschung sichtbar sein ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     },
     {
       "id": "stuttgart-official:1e36152715723f61",
@@ -156,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-10-23T09:42:43.537939Z"
+      "discovered_at": "2026-10-24T09:15:21.427637Z"
     }
   ]
 }
