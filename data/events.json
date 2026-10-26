@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T09:32:06.002611Z",
-  "count": 9,
+  "updated_at": "2026-10-26T10:43:01.104208Z",
+  "count": 10,
   "events": [
     {
       "id": "stuttgart-official:c29d7d9b88f45005",
@@ -13,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:a885079818505fe6",
@@ -26,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:e82cfce234a032a8",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:dffb5a9b0feebddc",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wer über ein Masterstudium im Bereich Finance nachdenkt, kann sich beim Infoabend einen ersten Eindruck vom Masterstudiengang Finance an der Universität Hohenheim ...",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:f0a09b431f65fa88",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Desinformation, Wahrnehmung und künstliche Intelligenz erkennen und verstehen (Webseminar)",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:cc5b179cb002b337",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:519829bbaf39e522",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Reihe Diversität in Kirche und Gesellschaft",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:6645ca0415acb9cb",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Susanne Hindennach zeigt, welche unsichtbare menschliche Arbeit hinter Künstlicher Intelligenz steckt und warum „Data Work“ für seriöse Forschung sichtbar sein ...",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     },
     {
       "id": "stuttgart-official:1e36152715723f61",
@@ -117,7 +117,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-10-25T09:32:05.698918Z"
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
+    },
+    {
+      "id": "stuttgart-official:7f81e13fcd81614f",
+      "source": "stuttgart-official",
+      "title": "HammerHAI – Der neue KI-Supercomputer in Stuttgart",
+      "start": "2026-11-24T16:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/hammerhai-der-neue-ki-supercomputer-in-stuttgart-536116?p=sig%3AchfdKyDqGTiueKDt%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C493368",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Gespräch mit Michael Resch, Dennis Hoppe und Oliver Scheel",
+      "discovered_at": "2026-10-26T10:43:00.827406Z"
     }
   ]
 }
