@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-11-07T11:26:55.005143Z",
-  "count": 15,
+  "updated_at": "2026-11-08T11:38:45.258489Z",
+  "count": 13,
   "events": [
-    {
-      "id": "stuttgart-official:a885079818505fe6",
-      "source": "stuttgart-official",
-      "title": "Philosophisches Café x Prof. Dr. Martin Uhl: Vertrauen in KI - Ein zweischneidiges Schwert",
-      "start": "2026-11-07T09:30:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/philosophisches-caf-x-prof.dr.martin-uhl-vertrauen-in-ki-ein-zweischneidiges-schwert-534955?p=sig%3Ayn9XNlgYPmb7ZXLs%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C492297",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Künstliche Intelligenz verändert, wie wir Entscheidungen treffen - doch wie viel Vertrauen ihr dabei geschenkt wird, fällt sehr unterschiedlich aus.",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
-    },
-    {
-      "id": "stuttgart-official:e82cfce234a032a8",
-      "source": "stuttgart-official",
-      "title": "Kinder-Uni: Vom Bild zur Erkenntnis! Bilderkennung mit Computern",
-      "start": "2026-11-07T10:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kinder-uni-vom-bild-zur-erkenntnis-bilderkennung-mit-computern-535320?p=sig%3AxvQcdETaiZFJxkNo%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C492726",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Wie können Roboter sehen? Und was passiert eigentlich, wenn ein Computer ein Bild „versteht“? Ob Roboter, Smartphone oder künstliche Intelligenz: Computer ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
-    },
     {
       "id": "stuttgart-official:45d04c75589047da",
       "source": "stuttgart-official",
@@ -39,7 +13,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:dffb5a9b0feebddc",
@@ -52,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wer über ein Masterstudium im Bereich Finance nachdenkt, kann sich beim Infoabend einen ersten Eindruck vom Masterstudiengang Finance an der Universität Hohenheim ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:f0a09b431f65fa88",
@@ -65,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Desinformation, Wahrnehmung und künstliche Intelligenz erkennen und verstehen (Webseminar)",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:cc5b179cb002b337",
@@ -78,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:519829bbaf39e522",
@@ -91,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Reihe Diversität in Kirche und Gesellschaft",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:6645ca0415acb9cb",
@@ -104,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Susanne Hindennach zeigt, welche unsichtbare menschliche Arbeit hinter Künstlicher Intelligenz steckt und warum „Data Work“ für seriöse Forschung sichtbar sein ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:5c63dcd7b9f73db7",
@@ -117,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:1e36152715723f61",
@@ -130,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:7f81e13fcd81614f",
@@ -143,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gespräch mit Michael Resch, Dennis Hoppe und Oliver Scheel",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:9798342ed787db92",
@@ -156,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impulsvortrag und Diskussion mit Alexandra Leibfried",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:38c47fd4213c5ae2",
@@ -169,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Traditionelle Handwerkskunst modern interpretiert. Hannah Kussels \"stricktly business\" zeigt, wie einfach Stricken mit ein paar kleinen, hilfreichen Tricks sein kann.",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:03c5c2f5f9978d55",
@@ -182,7 +156,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -195,7 +169,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-07T11:26:54.704555Z"
+      "discovered_at": "2026-11-08T11:38:44.967572Z"
     }
   ]
 }
