@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-13T12:48:01.852424Z",
+  "updated_at": "2026-11-14T11:54:11.775067Z",
   "count": 12,
   "events": [
     {
-      "id": "stuttgart-official:86893c8328df8615",
-      "source": "stuttgart-official",
-      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
-      "start": "2026-11-13T07:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
-    },
-    {
-      "id": "stuttgart-official:cc5b179cb002b337",
+      "id": "stuttgart-official:d7e8f73653edd757",
       "source": "stuttgart-official",
       "title": "INSOMNIA",
-      "start": "2026-11-13T15:00:00+01:00",
+      "start": "2026-11-14T15:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/insomnia-536661?p=sig%3AEV6misIGce6R5Qs3%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C493993",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
+    },
+    {
+      "id": "stuttgart-official:fabc6a363271974f",
+      "source": "stuttgart-official",
+      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
+      "start": "2026-11-16T07:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:519829bbaf39e522",
@@ -39,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Reihe Diversität in Kirche und Gesellschaft",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:6645ca0415acb9cb",
@@ -52,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Susanne Hindennach zeigt, welche unsichtbare menschliche Arbeit hinter Künstlicher Intelligenz steckt und warum „Data Work“ für seriöse Forschung sichtbar sein ...",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:5c63dcd7b9f73db7",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:1e36152715723f61",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:7f81e13fcd81614f",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gespräch mit Michael Resch, Dennis Hoppe und Oliver Scheel",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:9798342ed787db92",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impulsvortrag und Diskussion mit Alexandra Leibfried",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:38c47fd4213c5ae2",
@@ -117,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Traditionelle Handwerkskunst modern interpretiert. Hannah Kussels \"stricktly business\" zeigt, wie einfach Stricken mit ein paar kleinen, hilfreichen Tricks sein kann.",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:03c5c2f5f9978d55",
@@ -130,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -143,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     },
     {
       "id": "stuttgart-official:a44d60cb6709c704",
@@ -156,7 +156,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Thomas Kaltenbach in Zusammenarbeit mit dem Chaos Computer Club Stuttgart",
-      "discovered_at": "2026-11-13T12:48:01.630317Z"
+      "discovered_at": "2026-11-14T11:54:11.538381Z"
     }
   ]
 }
