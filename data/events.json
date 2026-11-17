@@ -1,32 +1,19 @@
 {
-  "updated_at": "2026-11-16T13:18:17.403372Z",
-  "count": 13,
+  "updated_at": "2026-11-17T14:03:44.119285Z",
+  "count": 14,
   "events": [
     {
-      "id": "stuttgart-official:fabc6a363271974f",
+      "id": "stuttgart-official:96b527316f911416",
       "source": "stuttgart-official",
       "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
-      "start": "2026-11-16T07:00:00+01:00",
+      "start": "2026-11-17T07:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
-    },
-    {
-      "id": "stuttgart-official:519829bbaf39e522",
-      "source": "stuttgart-official",
-      "title": "KI und Gender",
-      "start": "2026-11-16T17:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/ki-und-gender-536637?p=sig%3AIUKz9iR60auDkVZW%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C493988",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Reihe Diversität in Kirche und Gesellschaft",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:6645ca0415acb9cb",
@@ -39,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Susanne Hindennach zeigt, welche unsichtbare menschliche Arbeit hinter Künstlicher Intelligenz steckt und warum „Data Work“ für seriöse Forschung sichtbar sein ...",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:b48ce59bd83dfb94",
@@ -52,7 +39,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
+    },
+    {
+      "id": "eventbrite-stuttgart:3412344c6b5261ea",
+      "source": "eventbrite-stuttgart",
+      "title": "Female Business Meet up Stuttgart",
+      "start": "2026-11-20T00:00:00+01:00",
+      "end": "2026-11-20T00:00:00+01:00",
+      "location": "Stuttgarter Straße 196, Stuttgart",
+      "url": "https://www.eventbrite.de/e/female-business-meet-up-stuttgart-tickets-2003168495895",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-11-17T14:03:35.055538Z"
     },
     {
       "id": "stuttgart-official:5c63dcd7b9f73db7",
@@ -65,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:1e36152715723f61",
@@ -78,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:7f81e13fcd81614f",
@@ -91,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gespräch mit Michael Resch, Dennis Hoppe und Oliver Scheel",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:9798342ed787db92",
@@ -104,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impulsvortrag und Diskussion mit Alexandra Leibfried",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:38c47fd4213c5ae2",
@@ -117,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Traditionelle Handwerkskunst modern interpretiert. Hannah Kussels \"stricktly business\" zeigt, wie einfach Stricken mit ein paar kleinen, hilfreichen Tricks sein kann.",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:03c5c2f5f9978d55",
@@ -130,7 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -143,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     },
     {
       "id": "stuttgart-official:a44d60cb6709c704",
@@ -156,7 +156,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Thomas Kaltenbach in Zusammenarbeit mit dem Chaos Computer Club Stuttgart",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
+    },
+    {
+      "id": "eventbrite-stuttgart:e584ced1a8fb6e55",
+      "source": "eventbrite-stuttgart",
+      "title": "10 Jahre Cyber Valley: KI! Robotik! Und wir?",
+      "start": "2026-12-15T00:00:00+01:00",
+      "end": "2026-12-15T00:00:00+01:00",
+      "location": "Schillerplatz 6, Stuttgart",
+      "url": "https://www.eventbrite.de/e/10-jahre-cyber-valley-ki-robotik-und-wir-tickets-2003964960141",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-11-17T14:03:35.055538Z"
     },
     {
       "id": "stuttgart-official:2b7965a5c2a331b4",
@@ -169,7 +182,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie verändern KI und Robotik unseren Alltag und unser Zusammenleben? Wer gestaltet ihren Einsatz und welche Möglichkeiten haben wir als Gesellschaft, darauf Einfluss ...",
-      "discovered_at": "2026-11-16T13:18:17.098429Z"
+      "discovered_at": "2026-11-17T14:03:34.993071Z"
     }
   ]
 }
