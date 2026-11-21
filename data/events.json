@@ -1,71 +1,32 @@
 {
-  "updated_at": "2026-11-20T13:47:18.465034Z",
-  "count": 15,
+  "updated_at": "2026-11-21T13:11:32.100772Z",
+  "count": 11,
   "events": [
     {
-      "id": "eventbrite-stuttgart:3412344c6b5261ea",
-      "source": "eventbrite-stuttgart",
-      "title": "Female Business Meet up Stuttgart",
-      "start": "2026-11-20T00:00:00+01:00",
-      "end": "2026-11-20T00:00:00+01:00",
-      "location": "Kronprinzstraße 24, Stuttgart",
-      "url": "https://www.eventbrite.de/e/female-business-meet-up-stuttgart-tickets-2003168495895",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Bist du selbständig und willst dich mit gleichgesinnten Frauen aus deiner Umgebung vernetzen?",
-      "discovered_at": "2026-11-20T13:47:12.842405Z"
-    },
-    {
-      "id": "stuttgart-official:5bf2a57e2aac4125",
-      "source": "stuttgart-official",
-      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
-      "start": "2026-11-20T07:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
-    },
-    {
-      "id": "stuttgart-official:5c63dcd7b9f73db7",
-      "source": "stuttgart-official",
-      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
-      "start": "2026-11-20T10:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
-    },
-    {
-      "id": "stuttgart-official:51175bb180956f8c",
+      "id": "stuttgart-official:f5f69b1f5a32de1d",
       "source": "stuttgart-official",
       "title": "INSOMNIA",
-      "start": "2026-11-20T15:00:00+01:00",
+      "start": "2026-11-21T15:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/insomnia-536661?p=sig%3AEV6misIGce6R5Qs3%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C493993",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
-      "id": "stuttgart-official:1e36152715723f61",
+      "id": "stuttgart-official:6903ee1d19c837fc",
       "source": "stuttgart-official",
-      "title": "Gegen meinen Willen. Mit KI - Deepfakes als digitale Gewalt gegen Frauen",
-      "start": "2026-11-20T15:00:00+01:00",
+      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
+      "start": "2026-11-23T07:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/gegen-meinen-willen.mit-ki-deepfakes-als-digitale-gewalt-gegen-frauen-533507?p=sig%3A4mlX3iVJSk6tm2oQ%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C491033",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
-      "description": "Maria Pawelec, Expertin für digitale Ethik an der Universität Tübingen, spricht über aktuelle Entwicklungen rund um Deepfakes und digitale Gewalt gegen Frauen. Was ...",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:7f81e13fcd81614f",
@@ -78,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gespräch mit Michael Resch, Dennis Hoppe und Oliver Scheel",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:9798342ed787db92",
@@ -91,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impulsvortrag und Diskussion mit Alexandra Leibfried",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:38c47fd4213c5ae2",
@@ -104,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Traditionelle Handwerkskunst modern interpretiert. Hannah Kussels \"stricktly business\" zeigt, wie einfach Stricken mit ein paar kleinen, hilfreichen Tricks sein kann.",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:03c5c2f5f9978d55",
@@ -117,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -130,20 +91,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
-      "id": "eventbrite-stuttgart:f4c528f5c6932e3d",
-      "source": "eventbrite-stuttgart",
-      "title": "HBR Press Webinar:  The Scientific Mindset",
-      "start": "2026-12-08T00:00:00+01:00",
-      "end": "2026-12-08T00:00:00+01:00",
+      "id": "stuttgart-official:f905bf09b674b69c",
+      "source": "stuttgart-official",
+      "title": "Webinar: Digitale Barrierefreiheit Was Unternehmen jetzt wissen müssen!",
+      "start": "2026-12-04T10:00:00+01:00",
+      "end": null,
       "location": "Stuttgart",
-      "url": "https://www.eventbrite.com/e/hbr-press-webinar-the-scientific-mindset-tickets-2003821631441",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/webinar-digitale-barrierefreiheit-was-unternehmen-jetzt-wissen-muessen-505984?p=sig%3AgV9KJ3I6iAhhFmG0%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C432018",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
-      "description": "Thinking scientifically to drive better business decisions with Stefan Thomke",
-      "discovered_at": "2026-11-20T13:47:12.842405Z"
+      "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:a44d60cb6709c704",
@@ -156,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Thomas Kaltenbach in Zusammenarbeit mit dem Chaos Computer Club Stuttgart",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:83dcfd7272c49167",
@@ -169,20 +130,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Bildungszentrum des Landesdatenschutzbeauftragten bietet eine Einführung in das Datenschutzrecht an.",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
-    },
-    {
-      "id": "eventbrite-stuttgart:e584ced1a8fb6e55",
-      "source": "eventbrite-stuttgart",
-      "title": "10 Jahre Cyber Valley: KI! Robotik! Und wir?",
-      "start": "2026-12-15T00:00:00+01:00",
-      "end": "2026-12-15T00:00:00+01:00",
-      "location": "Schillerplatz 6, Stuttgart",
-      "url": "https://www.eventbrite.de/e/10-jahre-cyber-valley-ki-robotik-und-wir-tickets-2003964960141",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-11-20T13:47:12.842405Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     },
     {
       "id": "stuttgart-official:2b7965a5c2a331b4",
@@ -195,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie verändern KI und Robotik unseren Alltag und unser Zusammenleben? Wer gestaltet ihren Einsatz und welche Möglichkeiten haben wir als Gesellschaft, darauf Einfluss ...",
-      "discovered_at": "2026-11-20T13:47:12.780232Z"
+      "discovered_at": "2026-11-21T13:11:31.736575Z"
     }
   ]
 }

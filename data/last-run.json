@@ -1,7 +1,12 @@
 {
-  "ran_at": "2026-11-20T13:47:18.465034Z",
-  "new": 5,
-  "skipped": 17,
-  "total_in_horizon": 15,
-  "errors": []
+  "ran_at": "2026-11-21T13:11:32.100772Z",
+  "new": 4,
+  "skipped": 8,
+  "total_in_horizon": 11,
+  "errors": [
+    {
+      "source": "eventbrite-stuttgart",
+      "message": "405 Client Error: Not Allowed for url: https://www.eventbrite.de/d/germany--stuttgart/events/"
+    }
+  ]
 }
