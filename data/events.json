@@ -1,45 +1,19 @@
 {
-  "updated_at": "2026-11-25T15:14:15.459085Z",
-  "count": 11,
+  "updated_at": "2026-11-26T14:39:23.540444Z",
+  "count": 9,
   "events": [
     {
-      "id": "stuttgart-official:c8a6d22ad9d05baa",
+      "id": "stuttgart-official:405d2bf7d638e0f5",
       "source": "stuttgart-official",
       "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
-      "start": "2026-11-25T07:00:00+01:00",
+      "start": "2026-11-26T07:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
-    },
-    {
-      "id": "stuttgart-official:9798342ed787db92",
-      "source": "stuttgart-official",
-      "title": "Wirtschaft und Demokratie – Welche gesellschaftliche Verantwortung haben Unternehmen?",
-      "start": "2026-11-25T17:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wirtschaft-und-demokratie-welche-gesellschaftliche-verantwortung-haben-unternehmen-533240?p=sig%3AJUBlp8Ls6qz03Y1J%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C491554",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Impulsvortrag und Diskussion mit Alexandra Leibfried",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
-    },
-    {
-      "id": "stuttgart-official:38c47fd4213c5ae2",
-      "source": "stuttgart-official",
-      "title": "Strick-Atelier",
-      "start": "2026-11-25T18:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/strick-atelier-536726?p=sig%3AYmswXbpT4Uyv5zDJ%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494283",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Traditionelle Handwerkskunst modern interpretiert. Hannah Kussels \"stricktly business\" zeigt, wie einfach Stricken mit ein paar kleinen, hilfreichen Tricks sein kann.",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:546c6946040347ee",
@@ -52,7 +26,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:03c5c2f5f9978d55",
@@ -65,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -78,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:f905bf09b674b69c",
@@ -91,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:8e3f0505dc4b9340",
@@ -104,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert unser Menschenbild und wirft neue ethische Fragen auf: Wer trägt Verantwortung für autonome Entscheidungen?",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:a44d60cb6709c704",
@@ -117,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Thomas Kaltenbach in Zusammenarbeit mit dem Chaos Computer Club Stuttgart",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:83dcfd7272c49167",
@@ -130,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Bildungszentrum des Landesdatenschutzbeauftragten bietet eine Einführung in das Datenschutzrecht an.",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     },
     {
       "id": "stuttgart-official:2b7965a5c2a331b4",
@@ -143,7 +117,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie verändern KI und Robotik unseren Alltag und unser Zusammenleben? Wer gestaltet ihren Einsatz und welche Möglichkeiten haben wir als Gesellschaft, darauf Einfluss ...",
-      "discovered_at": "2026-11-25T15:14:15.206316Z"
+      "discovered_at": "2026-11-26T14:39:23.214391Z"
     }
   ]
 }
