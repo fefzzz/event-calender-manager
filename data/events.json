@@ -1,45 +1,32 @@
 {
-  "updated_at": "2026-11-27T14:37:34.280031Z",
+  "updated_at": "2026-11-28T13:49:28.918545Z",
   "count": 9,
   "events": [
     {
-      "id": "stuttgart-official:f4f846111d70b2d7",
-      "source": "stuttgart-official",
-      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
-      "start": "2026-11-27T07:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
-    },
-    {
-      "id": "stuttgart-official:03c5c2f5f9978d55",
-      "source": "stuttgart-official",
-      "title": "Lokale KI – Künstliche Intelligenz auf dem eigenen Gerät",
-      "start": "2026-11-27T09:00:00+01:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/lokale-ki-kuenstliche-intelligenz-auf-dem-eigenen-geraet-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
-    },
-    {
-      "id": "stuttgart-official:bff933d31daff7ac",
+      "id": "stuttgart-official:e6f92852717da30e",
       "source": "stuttgart-official",
       "title": "INSOMNIA",
-      "start": "2026-11-27T15:00:00+01:00",
+      "start": "2026-11-28T15:00:00+01:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/insomnia-536661?p=sig%3AEV6misIGce6R5Qs3%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C493993",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Ausstellung INSOMNIA thematisiert künstliche Intelligenz und ist vom 13. bis 28. November im Projektraum zu sehen.",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
+    },
+    {
+      "id": "stuttgart-official:19984346649dd091",
+      "source": "stuttgart-official",
+      "title": "Die Erinnerung erfinden wir uns selbst – 100 Jahre GEDOK",
+      "start": "2026-11-30T07:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/die-erinnerung-erfinden-wir-uns-selbst-100-jahre-gedok-537247?p=sig%3Av61x8R1orwld9n7Z%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C494598",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die GEDOK, das größte Künstlerinnen-Netzwerk im deutschsprachigen Raum, feiert sein 100-jähriges Bestehen. Die GEDOK Stuttgart begeht das Jubiläum mit einer ...",
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:1df4cc457bf55216",
@@ -52,7 +39,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Chancen und Risiken von KI für Demokratie und Gesellschaft",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:f905bf09b674b69c",
@@ -65,7 +52,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:8e3f0505dc4b9340",
@@ -78,7 +65,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Künstliche Intelligenz verändert unser Menschenbild und wirft neue ethische Fragen auf: Wer trägt Verantwortung für autonome Entscheidungen?",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:a44d60cb6709c704",
@@ -91,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag von Thomas Kaltenbach in Zusammenarbeit mit dem Chaos Computer Club Stuttgart",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:83dcfd7272c49167",
@@ -104,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Bildungszentrum des Landesdatenschutzbeauftragten bietet eine Einführung in das Datenschutzrecht an.",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     },
     {
       "id": "stuttgart-official:2b7965a5c2a331b4",
@@ -117,7 +104,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wie verändern KI und Robotik unseren Alltag und unser Zusammenleben? Wer gestaltet ihren Einsatz und welche Möglichkeiten haben wir als Gesellschaft, darauf Einfluss ...",
-      "discovered_at": "2026-11-27T14:37:34.007936Z"
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
+    },
+    {
+      "id": "stuttgart-official:abfb37a87ed59d07",
+      "source": "stuttgart-official",
+      "title": "Lokale KI – Künstliche Intelligenz auf dem eigenen Gerät",
+      "start": "2026-12-18T09:00:00+01:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/lokale-ki-kuenstliche-intelligenz-auf-dem-eigenen-geraet-532399?p=sig%3AuqvAEz0X770RQwZa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488173",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Künstliche Intelligenz (KI) ist allgegenwärtig und begegnet uns vielfach im Alltag. In der hybriden Reihe „KI entdecken – alltagsnah und praktisch“ geht es um ...",
+      "discovered_at": "2026-11-28T13:49:28.649005Z"
     }
   ]
 }
